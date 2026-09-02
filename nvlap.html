@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NVLAP Asbestos Fiber Analysis Labs | Asbestos Lab Index</title>
+  <meta name="description" content="How to search NIST’s NVLAP directory for Asbestos Fiber Analysis. This version lists zero labs because the public search form did not return rows without JavaScript.">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="site">
+    <div class="brand">
+      <h1><a href="index.html">Asbestos Lab Index</a></h1>
+      <p class="tag">Find an NVLAP-accredited lab that can analyze asbestos — then a licensed contractor if the report says to remove it.</p>
+    </div>
+    <nav class="primary" aria-label="Primary">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="states.html">States</a></li>
+        <li><a href="nvlap.html" aria-current="page">NVLAP labs</a></li>
+        <li><a href="contractors/kansas.html">Kansas contractors</a></li>
+        <li><a href="contractors/pennsylvania.html">Pennsylvania contractors</a></li>
+        <li><a href="when-to-test.html">When to test</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="content">
+    <h1 class="page">NVLAP Asbestos Fiber Analysis laboratories</h1>
+    <p class="lede">The National Voluntary Laboratory Accreditation Program (NVLAP), run by NIST, accredits laboratories that analyze asbestos with PLM and/or TEM. This page does <strong>not</strong> invent a lab table. The public directory is a search form; our fetch did not return rows without JavaScript. Use the official search, then confirm the lab code and expiration on the lab’s NVLAP page.</p>
+    <p class="meta">NIST Asbestos Fiber Analysis LAP page last updated 17 July 2026. Directory search retrieved 30 August 2026. No laboratory rows transcribed.</p>
+
+    <div class="callout">
+      <h2>Use the official directory</h2>
+      <p>Open <a href="https://www-s.nist.gov/niws/index.cfm?event=directory.search">NIST NVLAP Directory of Accredited Laboratories</a>. Under <strong>Program</strong>, choose <strong>Asbestos Fiber Analysis</strong>. Under <strong>Country</strong>, choose <strong>United States</strong> (or another country). Press Search. Sort by city or state if the results table allows it. Click a lab name for the NVLAP lab code, address, phone if shown, accreditation scope, and expiration date.</p>
+      <p><a class="btn" href="https://www-s.nist.gov/niws/index.cfm?event=directory.search">Search the NVLAP directory</a></p>
+    </div>
+
+    <h2>What NVLAP accreditation covers</h2>
+    <p>NIST: the Asbestos Fiber Analysis program “provides assurance that laboratories are competent to analyze asbestos samples using polarized light microscopy (PLM) and/or transmission electron microscopy (TEM).” The Asbestos Hazard Emergency Response Act (AHERA), enacted in 1986, requires that laboratories that analyze asbestos samples taken from public or private elementary or secondary schools be accredited by NVLAP.</p>
+    <p>Proficiency testing is mandated and provided by RTI International — biannually for PLM and annually for TEM, per the NIST program page. Labs are assessed against ISO/IEC 17025. Source: <a href="https://www.nist.gov/nvlap/asbestos-fiber-analysis-lap">NIST Asbestos Fiber Analysis LAP</a> (updated 17 July 2026).</p>
+
+    <h2>What we tried to fetch</h2>
+    <ul>
+      <li>GET of the search form succeeded (HTML search UI, program option “Asbestos Fiber Analysis” = <code>programId=2</code>).</li>
+      <li>POST to <code>event=directory.results</code> with a session CSRF token returned an application error page, not a lab table.</li>
+      <li>GET of individual <code>event=directory.detail&amp;labid=…</code> pages without a valid CSRF token also returned an error page.</li>
+    </ul>
+    <p>Because we could not retrieve a complete, current result set, <strong>this version lists zero NVLAP lab rows</strong>. Search-engine snippets of older detail pages are not a substitute for the live directory. Confirm every lab in the official search before you ship a sample.</p>
+
+    <h2>Related official lab lists (not NVLAP)</h2>
+    <p>Some cities license laboratories separately. The City of Philadelphia Department of Public Health publishes a 2026–2027 list of licensed asbestos laboratories (PDF released 29 July 2026). That is a <strong>city license</strong> to analyze samples taken in Philadelphia, not a NIST NVLAP table. We archived the PDF and did not transcribe it here because the text layer mixes laboratory firms with individual analysts. Official file:</p>
+    <p><a href="https://www.phila.gov/media/20260729134450/health-licensed-asbestos-laboratories-2026-2027.pdf">2026–2027 List of Licensed Asbestos Laboratories (PDF)</a> · index: <a href="https://www.phila.gov/documents/asbestos-documents-and-forms/">Philadelphia asbestos documents</a>.</p>
+
+    <div class="callout ok">
+      <h2>After you have a lab report</h2>
+      <p>If the report and an inspector who is not tied to a removal firm say the material should be repaired or removed, use a state or local licensed contractor list — not a ranked “best of” page. Live contractor pages: <a href="contractors/kansas.html">Kansas</a> and <a href="contractors/pennsylvania.html">Pennsylvania</a>.</p>
+    </div>
+  </main>
+  <footer class="site">
+    <div class="inner">
+      <p><strong>Asbestos Lab Index</strong> is a project by Stephen Shortell. Last updated 30 August 2026 (US/Pacific).</p>
+      <p><a href="about.html">Methodology and disclosure</a> · <a href="states.html">State directory</a></p>
+      <div class="disclaimer">
+        <p>This site is not a government agency and does not accredit laboratories or license asbestos contractors. Rows are transcribed from official federal and state sources cited on each page. Accreditation, licenses, phones, and expiration dates change. Confirm with the laboratory or contractor and with the issuing agency before you ship a sample or hire work.</p>
+        <p>EPA states that undamaged asbestos-containing material that will not be disturbed is usually best left alone, and that sampling done incorrectly can be more hazardous than leaving the material alone. This site is educational, not medical, legal, or engineering advice. We may earn a commission on future product or service links; there are no live affiliate links and no click-to-call tracking on this version.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

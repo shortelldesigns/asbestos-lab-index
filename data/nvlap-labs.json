@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "program": "Asbestos Fiber Analysis",
+    "directory_url": "https://www-s.nist.gov/niws/index.cfm?event=directory.search",
+    "program_page": "https://www.nist.gov/nvlap/asbestos-fiber-analysis-lap",
+    "program_page_updated": "2026-07-17",
+    "retrieved": "2026-08-30",
+    "status": "NIST directory search form did not return lab rows without JavaScript; POST to directory.results and GET of directory.detail failed. Zero labs transcribed.",
+    "labs_listed": 0
+  },
+  "labs": []
+}

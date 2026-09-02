@@ -1,0 +1,636 @@
+/* Asbestos Lab Index — Stephen Shortell, 2026-08-30
+   Calm, official, mobile-first, high contrast. No hero photos. */
+
+:root {
+  --ink: #141414;
+  --ink-soft: #2a2a2a;
+  --paper: #f6f3ea;
+  --paper-2: #efe9db;
+  --rule: #c9c0ae;
+  --navy: #123048;
+  --navy-2: #0c2234;
+  --link: #0a4a82;
+  --link-visited: #4a2f6b;
+  --forest: #1e4d3a;
+  --warn-bg: #f3e6c8;
+  --warn-ink: #5c3a08;
+  --ok-bg: #dce9e1;
+  --focus: #c45c00;
+  --max: 46rem;
+  --wide: 72rem;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 112.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  line-height: 1.55;
+}
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--navy);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  z-index: 20;
+}
+.skip:focus { left: 0.5rem; top: 0.5rem; }
+
+header.site {
+  background: var(--navy);
+  color: #f6f3ea;
+  border-bottom: 4px solid var(--forest);
+}
+
+.brand {
+  max-width: var(--wide);
+  margin: 0 auto;
+  padding: 0.85rem 1.1rem 0.4rem;
+}
+
+.brand p.eyebrow {
+  margin: 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #d7c9a4;
+}
+
+.brand h1 {
+  margin: 0.15rem 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.brand h1 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.brand .tag {
+  margin: 0.2rem 0 0.5rem;
+  font-size: 0.92rem;
+  color: #e8e0cf;
+  max-width: 38rem;
+}
+
+nav.primary {
+  background: var(--navy-2);
+}
+
+nav.primary ul {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0.35rem 0.7rem;
+  max-width: var(--wide);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.15rem;
+}
+
+nav.primary a {
+  display: inline-block;
+  color: #f6f3ea;
+  text-decoration: none;
+  padding: 0.4rem 0.65rem;
+  border-radius: 2px;
+  font-size: 0.88rem;
+}
+
+nav.primary a:hover,
+nav.primary a:focus {
+  background: #1d4a68;
+  outline: 2px solid #f6d27a;
+  outline-offset: 1px;
+}
+
+nav.primary a[aria-current="page"] {
+  background: var(--forest);
+}
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.4rem 1.1rem 3rem;
+}
+
+main.wide { max-width: var(--wide); }
+
+h1, h2, h3, h4 {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.25;
+  color: var(--navy);
+}
+
+h1.page {
+  font-size: 1.85rem;
+  margin: 0 0 0.4rem;
+}
+
+.lede {
+  font-size: 1.08rem;
+  color: var(--ink-soft);
+  margin: 0 0 1.2rem;
+}
+
+.meta {
+  font-size: 0.85rem;
+  color: #4a463c;
+  margin: 0 0 1.2rem;
+}
+
+h2 {
+  font-size: 1.28rem;
+  margin: 1.8rem 0 0.55rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid var(--rule);
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin: 1.2rem 0 0.4rem;
+  color: var(--forest);
+}
+
+p { margin: 0 0 0.9rem; }
+
+a {
+  color: var(--link);
+  text-underline-offset: 2px;
+}
+a:visited { color: var(--link-visited); }
+a:focus {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+ul, ol { margin: 0 0 1rem; padding-left: 1.3rem; }
+li { margin-bottom: 0.35rem; }
+
+.flow {
+  display: grid;
+  gap: 0.7rem;
+  margin: 1.2rem 0 1.5rem;
+}
+
+.flow article {
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-left: 5px solid var(--forest);
+  padding: 0.85rem 1rem;
+}
+
+.flow article h2 {
+  border: 0;
+  margin: 0 0 0.3rem;
+  padding: 0;
+  font-size: 1.05rem;
+}
+
+.flow .step {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--forest);
+  font-family: "Segoe UI", system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.cards {
+  display: grid;
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .cards.two { grid-template-columns: 1fr 1fr; }
+  .flow { grid-template-columns: 1fr 1fr 1fr; }
+  h1.page { font-size: 2.05rem; }
+}
+
+.card {
+  background: #fff;
+  border: 1px solid var(--rule);
+  padding: 0.9rem 1rem;
+}
+
+.card h2, .card h3 {
+  margin-top: 0;
+  border: 0;
+  padding: 0;
+}
+
+.callout {
+  background: var(--warn-bg);
+  color: var(--warn-ink);
+  border: 1px solid #d7b56a;
+  padding: 0.85rem 1rem;
+  margin: 1rem 0 1.3rem;
+}
+
+.callout.ok {
+  background: var(--ok-bg);
+  color: #143328;
+  border-color: #8fb59e;
+}
+
+.callout h2, .callout h3 {
+  color: inherit;
+  border: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  margin: 0 0 1.4rem;
+  border: 1px solid var(--rule);
+  background: #fff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  min-width: 40rem;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.45rem 0.55rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+th {
+  background: var(--navy);
+  color: #f6f3ea;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+}
+
+tr:nth-child(even) td { background: var(--paper-2); }
+
+caption {
+  text-align: left;
+  font-weight: 600;
+  padding: 0.5rem 0.55rem;
+  caption-side: top;
+  background: var(--paper-2);
+}
+
+.yes { font-weight: 700; color: var(--forest); }
+.sub { color: #5c3a08; }
+.no { color: #666; }
+.unknown { color: #5c3a08; font-style: italic; }
+
+.cite {
+  font-size: 0.88rem;
+  background: #fff;
+  border: 1px solid var(--rule);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+}
+
+.cite ol { margin-bottom: 0; }
+
+footer.site {
+  background: var(--navy-2);
+  color: #e8e0cf;
+  padding: 1.4rem 1.1rem 2.2rem;
+  font-size: 0.88rem;
+}
+
+footer.site .inner {
+  max-width: var(--wide);
+  margin: 0 auto;
+}
+
+footer.site a { color: #9ec9ef; }
+footer.site a:visited { color: #cbb6e4; }
+
+footer.site p { margin: 0 0 0.55rem; }
+
+.disclaimer {
+  border-top: 1px solid #3a5568;
+  margin-top: 0.9rem;
+  padding-top: 0.9rem;
+  color: #d2cbb8;
+}
+
+.state-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.4rem;
+}
+
+.state-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid var(--rule);
+  padding: 0.45rem 0;
+}
+
+.badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.12rem 0.4rem;
+  border: 1px solid var(--forest);
+  color: var(--forest);
+  background: var(--ok-bg);
+}
+
+.badge.soon {
+  border-color: #8a7a55;
+  color: #5c5340;
+  background: var(--paper-2);
+}
+
+dl.facts dt {
+  font-weight: 700;
+  margin-top: 0.6rem;
+}
+dl.facts dd { margin: 0.15rem 0 0; }
+
+code, .path {
+  font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+  font-size: 0.86em;
+  background: var(--paper-2);
+  padding: 0.05rem 0.28rem;
+}
+
+/* === Directory conversion pass. Tokens unchanged. Roster tables below. === */
+
+/* Primary actions: official, not a promo chip. No radius, no shadow. */
+.actions,
+.cta-cards .btn {
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+.cta-cards {
+  margin-top: 0.35rem;
+}
+
+.cta-cards .card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem 1.05rem 1.1rem;
+  border-top: 4px solid var(--forest);
+}
+
+.cta-cards .card h3 {
+  margin: 0 0 0.15rem;
+  font-size: 1.18rem;
+  line-height: 1.25;
+}
+
+.cta-cards .card h3 a {
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.cta-cards .card h3 a:hover,
+.cta-cards .card h3 a:focus {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.cta-cards .card p {
+  margin: 0 0 0.7rem;
+  flex: 1;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  min-height: 2.75rem;
+  padding: 0.4rem 1rem;
+  background: var(--forest);
+  color: #f6f3ea;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.92rem;
+  letter-spacing: 0.01em;
+  border: 2px solid var(--forest);
+}
+
+.btn:visited { color: #f6f3ea; }
+
+.btn:hover,
+.btn:focus {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #f6f3ea;
+}
+
+.btn.secondary {
+  background: transparent;
+  color: var(--navy);
+  border-color: var(--navy);
+}
+
+.btn.secondary:visited { color: var(--navy); }
+
+.btn.secondary:hover,
+.btn.secondary:focus {
+  background: var(--navy);
+  color: #f6f3ea;
+}
+
+/* Keep the 3-step as a story, not a brochure row, until there is real width. */
+@media (min-width: 640px) {
+  .flow { grid-template-columns: 1fr; }
+}
+@media (min-width: 56rem) {
+  .flow { grid-template-columns: 1fr 1fr 1fr; }
+  .cards.two.cta-cards { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+.flow article p:last-child { margin-bottom: 0; }
+
+/* Nav: thumb-sized targets. Already wraps. */
+nav.primary a {
+  min-height: 2.75rem;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Compact table key (replaces the wall-of-text callout body) */
+.callout.compact { padding: 0.75rem 0.95rem; }
+.callout.compact h2 { font-size: 1.05rem; margin-bottom: 0.45rem; }
+.callout.compact p:last-child { margin-bottom: 0; }
+
+.key {
+  display: grid;
+  gap: 0.4rem 1.1rem;
+  margin: 0 0 0.75rem;
+  padding: 0;
+}
+
+.key div {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 0.45rem;
+  align-items: baseline;
+}
+
+.key dt {
+  margin: 0;
+  font-weight: 700;
+  color: var(--navy);
+  font-family: "Segoe UI", system-ui, sans-serif;
+  font-size: 0.88rem;
+}
+
+.key dd {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+@media (min-width: 640px) {
+  .key { grid-template-columns: 1fr 1fr; }
+}
+
+/* Phone numbers are the conversion. Desktop: still a quiet tel: link. */
+.labs-table a[href^="tel:"] {
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.labs-table a[href^="tel:"]:hover { text-decoration: underline; }
+
+
+/* Directory tables: sticky first column on wide screens; cards on small screens. */
+@media (min-width: 48rem) {
+  .dir-table th:nth-child(1),
+  .dir-table td:nth-child(1) {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    min-width: 11rem;
+  }
+  .dir-table thead th:nth-child(1) {
+    z-index: 3;
+    background: var(--navy);
+  }
+  .dir-table tbody tr:nth-child(odd) td:nth-child(1) { background: #fff; }
+  .dir-table tbody tr:nth-child(even) td:nth-child(1) { background: var(--paper-2); }
+}
+
+@media (max-width: 47.99rem) {
+  .dir-table {
+    min-width: 0;
+    border: 0;
+  }
+  .dir-table caption {
+    padding: 0.65rem 0.2rem;
+    background: transparent;
+  }
+  .dir-table thead { display: none; }
+  .dir-table tbody,
+  .dir-table tr,
+  .dir-table td {
+    display: block;
+    width: 100%;
+  }
+  .dir-table tbody tr {
+    display: grid;
+    gap: 0.15rem;
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-left: 5px solid var(--forest);
+    padding: 0.85rem 0.95rem 1rem;
+    margin: 0 0 0.75rem;
+  }
+  .dir-table tbody tr:nth-child(even) td { background: transparent; }
+  .dir-table td {
+    display: grid;
+    grid-template-columns: 7.25rem 1fr;
+    gap: 0.35rem;
+    border: 0;
+    padding: 0.18rem 0;
+  }
+  .dir-table td::before {
+    content: attr(data-label);
+    font-family: "Segoe UI", system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--forest);
+    padding-top: 0.2rem;
+  }
+  .dir-table td.name {
+    order: -2;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.08rem;
+    font-weight: 700;
+    color: var(--navy);
+    grid-template-columns: 1fr;
+    margin-bottom: 0.25rem;
+  }
+  .dir-table td.name::before { display: none; }
+  .dir-table td.phone {
+    order: -1;
+    margin: 0.15rem 0 0.45rem;
+    align-items: center;
+  }
+  .dir-table td.phone a[href^="tel:"] {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.75rem;
+    padding: 0.3rem 0.85rem;
+    background: var(--navy);
+    color: #f6f3ea;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .dir-table td.phone a[href^="tel:"]:visited { color: #f6f3ea; }
+}
+
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.75rem;
+  align-items: center;
+  margin: 0 0 1rem;
+}
+.filter label {
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--navy);
+}
+.filter input {
+  font: inherit;
+  min-height: 2.5rem;
+  min-width: min(100%, 18rem);
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--rule);
+  background: #fff;
+}
+
+@media (min-width: 48rem) {
+  .yes { background: var(--ok-bg); padding: 0.05rem 0.35rem; }
+  .sub { background: var(--warn-bg); padding: 0.05rem 0.35rem; }
+}

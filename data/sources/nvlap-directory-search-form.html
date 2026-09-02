@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>Touchstone: Accreditation & Assessment Management System - Customer Portal</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	
+	<!-- *** LAYOUT THEME STYLESHEETS *** -->
+	<!--[if lt IE 9]><script src="/niws/js/flot/excanvas.min.js"></script><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
+	<!--MAIN THEME -->
+	<link rel="stylesheet" type="text/css" href="/niws/css/cloud-admin.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	
+	
+	<!-- JQUERY UI-->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/jquery-ui-1.10.3.custom/css/custom-theme/jquery-ui-1.10.3.custom.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- FONT AWESOME -->
+	<link rel="stylesheet" type="text/css" href="/niws/font-awesome/css/font-awesome.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- DATE RANGE PICKER -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/bootstrap-daterangepicker/daterangepicker-bs3.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- DATE PICKER -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/datepicker/themes/default.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/datepicker/themes/default.date.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/datepicker/themes/default.time.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- UNIFORM -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/uniform/css/uniform.default.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- ANIMATE -->
+	<link rel="stylesheet" type="text/css" href="/niws/css/animatecss/animate.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- FONTS -->
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" />
+	<!--  HUBSPOT MESSAGING   -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/hubspot-messenger/css/messenger-theme-block.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D"/>
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/hubspot-messenger/css/messenger.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D"/>
+	<!-- SELECT2 -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/select2/select2.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- DATATABLES -->
+	<link rel="stylesheet" type="text/css" href="/niws/js/lib/datatables/media/css/jquery.dataTables.min.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- *** /LAYOUT THEME STYLESHEETS *** -->
+	
+
+	<!-- *** TOUCHSTONE STYLESHEETS *** -->
+	
+	
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700&amp;subset=latin,cyrillic,latin-ext,vietnamese,greek,greek-ext,cyrillic-ext" media="all" />
+	<link rel="stylesheet" type="text/css" href="/niws/css/touchstone.css?rcache=C98E6575-A644-30F4-B108E852EB17488D" />
+	<!-- *** /TOUCHSTONE STYLESHEETS *** -->
+	</head>
+<body id="body" class="public">
+	<!-- PAGE -->
+	<section id="page">
+
+		<div class="header">
+
+			<div id="meta-navigation-wrapper">
+				<div id="meta-navigation-wrapper-logo">
+					<a href="https://www.nist.gov/" title="National Institute of Standards and Technology" class="header__logo-link" rel="home">
+						
+						<img src="/niws/img/logo/nist_logo_reverse.svg" onerror="this.src='/niws/img/logo/nist_logo_reverse.png'" alt="National Institute of Standards and Technology" />
+						
+					</a>
+				</div>
+			</div>
+
+			<div class="section-header">
+				<div class="section-header__top">
+					
+						<a href="https://www.nist.gov/nvlap/"><i class="fa fa-home"></i>&nbsp;&nbsp;National Voluntary Laboratory Accreditation Program (NVLAP)</a>
+					
+							<span>&nbsp;>&nbsp;</span>
+							<span><a href="index.cfm?event=directory.search">Directory</a></span>
+						
+				</div>
+			</div>
+
+		</div>
+
+		<!-- CONTAINER -->
+		<section>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 mrg_t_10">
+
+							<!-- COMPANY LOGO -->
+							<!-- RENDER VIEW -->
+							
+<div class="col-md-12">
+	<form id="directorySearch" name="directorySearch" data-isdirty="false" class="form-horizontal" action="/niws/index.cfm?event=directory.results" method="post">
+	<input type="hidden" id="csrfToken" name="csrfToken" value="4F1ADC92495E8F4D3876A6228C528D3F06FAFF19" />
+
+	<div class="box border primary">
+		<div class="box-title">
+			<h4>SEARCH:</h4>
+		</div>
+		<div class="box-body big">
+
+			<div class="form-group">
+				<label class="col-sm-4 control-label right" for="labId">Laboratory Name / NVLAP Lab Code:</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="labId" name="labId" class="bigdrop col-md-12"/>
+				</div>
+			</div>
+
+			<div class="tsseparator pad_b_10"><strong>OR</strong></div>
+
+			<div class="form-group">
+				<label class="col-sm-4 control-label right" for="countryId">Country:</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="country" name="country" value=""/>
+					<select id="countryId" name="countryId" class="bigdrop col-md-12">
+						<option value="0"> - All Countries -</option>
+						
+						<option value="1">United States</option>
+						
+						<option value="2">Canada</option>
+						
+						<option value="3">Afghanistan</option>
+						
+						<option value="4">Aland Islands</option>
+						
+						<option value="5">Albania</option>
+						
+						<option value="6">Algeria</option>
+						
+						<option value="7">American Samoa</option>
+						
+						<option value="8">Andorra</option>
+						
+						<option value="9">Angola</option>
+						
+						<option value="10">Anguilla</option>
+						
+						<option value="11">Antarctica</option>
+						
+						<option value="12">Antigua and Barbuda</option>
+						
+						<option value="13">Argentina</option>
+						
+						<option value="14">Armenia</option>
+						
+						<option value="15">Aruba</option>
+						
+						<option value="16">Australia</option>
+						
+						<option value="17">Austria</option>
+						
+						<option value="18">Azerbaijan</option>
+						
+						<option value="19">Bahamas</option>
+						
+						<option value="20">Bahrain</option>
+						
+						<option value="21">Bangladesh</option>
+						
+						<option value="22">Barbados</option>
+						
+						<option value="23">Belarus</option>
+						
+						<option value="24">Belgium</option>
+						
+						<option value="25">Belize</option>
+						
+						<option value="26">Benin</option>
+						
+						<option value="27">Bermuda</option>
+						
+						<option value="28">Bhutan</option>
+						
+						<option value="29">Bolivia</option>
+						
+						<option value="30">Bonaire, Sint Eustatius and Saba</option>
+						
+						<option value="31">Bosnia and Herzegovina</option>
+						
+						<option value="32">Botswana</option>
+						
+						<option value="33">Bouvet Island</option>
+						
+						<option value="34">Brazil</option>
+						
+						<option value="35">British Indian Ocean Territory</option>
+						
+						<option value="36">Brunei</option>
+						
+						<option value="37">Bulgaria</option>
+						
+						<option value="38">Burkina Faso</option>
+						
+						<option value="39">Burundi</option>
+						
+						<option value="40">Cambodia</option>
+						
+						<option value="41">Cameroon</option>
+						
+						<option value="42">Cape Verde</option>
+						
+						<option value="43">Cayman Islands</option>
+						
+						<option value="44">Central African Republic</option>
+						
+						<option value="45">Chad</option>
+						
+						<option value="46">Chile</option>
+						
+						<option value="47">China</option>
+						
+						<option value="48">Christmas Island</option>
+						
+						<option value="49">Cocos (Keeling) Islands</option>
+						
+						<option value="50">Colombia</option>
+						
+						<option value="51">Comoros</option>
+						
+						<option value="52">Republic of the Congo</option>
+						
+						<option value="53">Democratic Republic of the Congo</option>
+						
+						<option value="54">Cook Islands</option>
+						
+						<option value="55">Costa Rica</option>
+						
+						<option value="56">Cote D'Ivoire</option>
+						
+						<option value="57">Croatia</option>
+						
+						<option value="58">Cuba</option>
+						
+						<option value="59">Curacao</option>
+						
+						<option value="60">Cyprus</option>
+						
+						<option value="61">Czech Republic</option>
+						
+						<option value="62">Denmark</option>
+						
+						<option value="63">Djibouti</option>
+						
+						<option value="64">Dominica</option>
+						
+						<option value="65">Dominican Republic</option>
+						
+						<option value="66">Ecuador</option>
+						
+						<option value="67">Egypt</option>
+						
+						<option value="68">El Salvador</option>
+						
+						<option value="69">Equatorial Guinea</option>
+						
+						<option value="70">Eritrea</option>
+						
+						<option value="71">Estonia</option>
+						
+						<option value="72">Ethiopia</option>
+						
+						<option value="73">Falkland Islands/Islas Malvinas</option>
+						
+						<option value="74">Faroe Islands</option>
+						
+						<option value="75">Fiji</option>
+						
+						<option value="76">Finland</option>
+						
+						<option value="77">France</option>
+						
+						<option value="78">French Guiana</option>
+						
+						<option value="79">French Polynesia</option>
+						
+						<option value="80">French Southern Territories</option>
+						
+						<option value="81">Gabon</option>
+						
+						<option value="82">The Gambia</option>
+						
+						<option value="83">Georgia</option>
+						
+						<option value="84">Germany</option>
+						
+						<option value="85">Ghana</option>
+						
+						<option value="86">Gibraltar</option>
+						
+						<option value="87">Greece</option>
+						
+						<option value="88">Greenland</option>
+						
+						<option value="89">Grenada</option>
+						
+						<option value="90">Guadeloupe</option>
+						
+						<option value="91">Guam</option>
+						
+						<option value="92">Guatemala</option>
+						
+						<option value="93">Guernsey</option>
+						
+						<option value="94">Guinea</option>
+						
+						<option value="95">Guinea-Bissau</option>
+						
+						<option value="96">Guyana</option>
+						
+						<option value="97">Haiti</option>
+						
+						<option value="98">Heard Island and McDonald Islands</option>
+						
+						<option value="99">Vatican City</option>
+						
+						<option value="100">Honduras</option>
+						
+						<option value="101">Hong Kong</option>
+						
+						<option value="102">Hungary</option>
+						
+						<option value="103">Iceland</option>
+						
+						<option value="104">India</option>
+						
+						<option value="105">Indonesia</option>
+						
+						<option value="106">Iran</option>
+						
+						<option value="107">Iraq</option>
+						
+						<option value="108">Republic of Ireland</option>
+						
+						<option value="109">Isle of Man</option>
+						
+						<option value="110">Israel</option>
+						
+						<option value="111">Italy</option>
+						
+						<option value="112">Jamaica</option>
+						
+						<option value="113">Japan</option>
+						
+						<option value="114">Jersey</option>
+						
+						<option value="115">Jordan</option>
+						
+						<option value="116">Kazakhstan</option>
+						
+						<option value="117">Kenya</option>
+						
+						<option value="118">Kiribati</option>
+						
+						<option value="119">North Korea</option>
+						
+						<option value="120">South Korea</option>
+						
+						<option value="121">Kuwait</option>
+						
+						<option value="122">Kyrgyzstan</option>
+						
+						<option value="123">Laos</option>
+						
+						<option value="124">Latvia</option>
+						
+						<option value="125">Lebanon</option>
+						
+						<option value="126">Lesotho</option>
+						
+						<option value="127">Liberia</option>
+						
+						<option value="128">Libya</option>
+						
+						<option value="129">Liechtenstein</option>
+						
+						<option value="130">Lithuania</option>
+						
+						<option value="131">Luxembourg</option>
+						
+						<option value="132">Macau</option>
+						
+						<option value="133">Republic of Macedonia</option>
+						
+						<option value="134">Madagascar</option>
+						
+						<option value="135">Malawi</option>
+						
+						<option value="136">Malaysia</option>
+						
+						<option value="137">Maldives</option>
+						
+						<option value="138">Mali</option>
+						
+						<option value="139">Malta</option>
+						
+						<option value="140">Marshall Islands</option>
+						
+						<option value="141">Martinique</option>
+						
+						<option value="142">Mauritania</option>
+						
+						<option value="143">Mauritius</option>
+						
+						<option value="144">Mayotte</option>
+						
+						<option value="145">Mexico</option>
+						
+						<option value="146">Federated States of Micronesia</option>
+						
+						<option value="147">Moldova</option>
+						
+						<option value="148">Monaco</option>
+						
+						<option value="149">Mongolia</option>
+						
+						<option value="150">Montenegro</option>
+						
+						<option value="151">Montserrat</option>
+						
+						<option value="152">Morocco</option>
+						
+						<option value="153">Mozambique</option>
+						
+						<option value="154">Myanmar</option>
+						
+						<option value="155">Namibia</option>
+						
+						<option value="156">Nauru</option>
+						
+						<option value="157">Nepal</option>
+						
+						<option value="158">Netherlands</option>
+						
+						<option value="159">New Caledonia</option>
+						
+						<option value="160">New Zealand</option>
+						
+						<option value="161">Nicaragua</option>
+						
+						<option value="162">Niger</option>
+						
+						<option value="163">Nigeria</option>
+						
+						<option value="164">Niue</option>
+						
+						<option value="165">Norfolk Island</option>
+						
+						<option value="166">Northern Mariana Islands</option>
+						
+						<option value="167">Norway</option>
+						
+						<option value="168">Oman</option>
+						
+						<option value="169">Pakistan</option>
+						
+						<option value="170">Palau</option>
+						
+						<option value="171">West Bank and Gaza Strip</option>
+						
+						<option value="172">Panama</option>
+						
+						<option value="173">Papua New Guinea</option>
+						
+						<option value="174">Paraguay</option>
+						
+						<option value="175">Peru</option>
+						
+						<option value="176">Philippines</option>
+						
+						<option value="177">Pitcairn Islands</option>
+						
+						<option value="178">Poland</option>
+						
+						<option value="179">Portugal</option>
+						
+						<option value="180">Puerto Rico</option>
+						
+						<option value="181">Qatar</option>
+						
+						<option value="182">Reunion</option>
+						
+						<option value="183">Romania</option>
+						
+						<option value="184">Russia</option>
+						
+						<option value="185">Rwanda</option>
+						
+						<option value="186">Saint Barthelemy</option>
+						
+						<option value="187">Saint Helena</option>
+						
+						<option value="188">Saint Kitts and Nevis</option>
+						
+						<option value="189">Saint Lucia</option>
+						
+						<option value="190">Saint Martin</option>
+						
+						<option value="191">Saint Pierre and Miquelon</option>
+						
+						<option value="192">Saint Vincent and the Grenadines</option>
+						
+						<option value="193">Samoa</option>
+						
+						<option value="194">San Marino</option>
+						
+						<option value="195">Sao Tome and Principe</option>
+						
+						<option value="196">Saudi Arabia</option>
+						
+						<option value="197">Senegal</option>
+						
+						<option value="198">Serbia</option>
+						
+						<option value="199">Seychelles</option>
+						
+						<option value="200">Sierra Leone</option>
+						
+						<option value="201">Singapore</option>
+						
+						<option value="202">Sint Maarten (Dutch part)</option>
+						
+						<option value="203">Slovakia</option>
+						
+						<option value="204">Slovenia</option>
+						
+						<option value="205">Solomon Islands</option>
+						
+						<option value="206">Somalia</option>
+						
+						<option value="207">South Africa</option>
+						
+						<option value="208">South Georgia and the South Sandwich Islands</option>
+						
+						<option value="209">South Sudan</option>
+						
+						<option value="210">Spain</option>
+						
+						<option value="211">Sri Lanka</option>
+						
+						<option value="212">Sudan</option>
+						
+						<option value="213">Suriname</option>
+						
+						<option value="214">Svalbard</option>
+						
+						<option value="215">Swaziland</option>
+						
+						<option value="216">Sweden</option>
+						
+						<option value="217">Switzerland</option>
+						
+						<option value="218">Syria</option>
+						
+						<option value="219">Taiwan</option>
+						
+						<option value="220">Tajikistan</option>
+						
+						<option value="221">Tanzania</option>
+						
+						<option value="222">Thailand</option>
+						
+						<option value="223">Timor-Leste</option>
+						
+						<option value="224">Togo</option>
+						
+						<option value="225">Tokelau</option>
+						
+						<option value="226">Tonga</option>
+						
+						<option value="227">Trinidad and Tobago</option>
+						
+						<option value="228">Tunisia</option>
+						
+						<option value="229">Turkey</option>
+						
+						<option value="230">Turkmenistan</option>
+						
+						<option value="231">Turks and Caicos Islands</option>
+						
+						<option value="232">Tuvalu</option>
+						
+						<option value="233">Republic of Uganda</option>
+						
+						<option value="234">Ukraine</option>
+						
+						<option value="235">United Arab Emirates</option>
+						
+						<option value="236">United Kingdom</option>
+						
+						<option value="237">United States Minor Outlying Islands</option>
+						
+						<option value="238">Uruguay</option>
+						
+						<option value="239">Uzbekistan</option>
+						
+						<option value="240">Vanuatu</option>
+						
+						<option value="241">Venezuela</option>
+						
+						<option value="242">Vietnam</option>
+						
+						<option value="243">British Virgin Islands</option>
+						
+						<option value="244">U.S. Virgin Islands</option>
+						
+						<option value="245">Wallis and Futuna</option>
+						
+						<option value="246">Western Sahara</option>
+						
+						<option value="247">Yemen</option>
+						
+						<option value="248">Zambia</option>
+						
+						<option value="249">Zimbabwe</option>
+						
+					</select>
+				</div>
+			</div>
+
+			<div class="form-group" id="stateDropdown" style="display: none;">
+				<label class="col-sm-4 control-label right" for="stateProvinceId">State:</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="stateProvince" name="stateProvince" value=""/>
+					<select id="stateProvinceId" name="stateProvinceId" class="bigdrop col-md-12">
+						<option value="0"> - All States -</option>
+						
+						<option value="1">Alabama</option>
+						
+						<option value="2">Alaska</option>
+						
+						<option value="3">Arizona</option>
+						
+						<option value="4">Arkansas</option>
+						
+						<option value="5">California</option>
+						
+						<option value="6">Colorado</option>
+						
+						<option value="7">Connecticut</option>
+						
+						<option value="8">Delaware</option>
+						
+						<option value="9">District of Columbia</option>
+						
+						<option value="10">Florida</option>
+						
+						<option value="11">Georgia</option>
+						
+						<option value="12">Hawaii</option>
+						
+						<option value="13">Idaho</option>
+						
+						<option value="14">Illinois</option>
+						
+						<option value="15">Indiana</option>
+						
+						<option value="16">Iowa</option>
+						
+						<option value="17">Kansas</option>
+						
+						<option value="18">Kentucky</option>
+						
+						<option value="19">Louisiana</option>
+						
+						<option value="20">Maine</option>
+						
+						<option value="21">Maryland</option>
+						
+						<option value="22">Massachusetts</option>
+						
+						<option value="23">Michigan</option>
+						
+						<option value="24">Minnesota</option>
+						
+						<option value="25">Mississippi</option>
+						
+						<option value="26">Missouri</option>
+						
+						<option value="27">Montana</option>
+						
+						<option value="28">Nebraska</option>
+						
+						<option value="29">Nevada</option>
+						
+						<option value="30">New Hampshire</option>
+						
+						<option value="31">New Jersey</option>
+						
+						<option value="32">New Mexico</option>
+						
+						<option value="33">New York</option>
+						
+						<option value="34">North Carolina</option>
+						
+						<option value="35">North Dakota</option>
+						
+						<option value="36">Ohio</option>
+						
+						<option value="37">Oklahoma</option>
+						
+						<option value="38">Oregon</option>
+						
+						<option value="39">Pennsylvania</option>
+						
+						<option value="40">Rhode Island</option>
+						
+						<option value="41">South Carolina</option>
+						
+						<option value="42">South Dakota</option>
+						
+						<option value="43">Tennessee</option>
+						
+						<option value="44">Texas</option>
+						
+						<option value="45">Utah</option>
+						
+						<option value="46">Vermont</option>
+						
+						<option value="47">Virginia</option>
+						
+						<option value="48">Washington</option>
+						
+						<option value="49">West Virginia</option>
+						
+						<option value="50">Wisconsin</option>
+						
+						<option value="51">Wyoming</option>
+						
+						<option value="52">American Samoa</option>
+						
+						<option value="53">Guam</option>
+						
+						<option value="54">Northern Mariana Islands</option>
+						
+						<option value="55">Puerto Rico</option>
+						
+						<option value="56">United States Minor Outlying Islands</option>
+						
+						<option value="57">Virgin Islands, U.S.</option>
+						
+					</select>
+				</div>
+			</div>
+
+			<div class="form-group">
+				<label class="col-sm-4 control-label right" for="programId">Program:</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="program" name="program" value=""/>
+					<select id="programId" name="programId" class="col-md-12">
+						<option value="0"> - All Programs -</option>
+						
+									<option value="2">Asbestos Fiber Analysis</option>
+								
+									<option value="3">Law Enforcement and Corrections Equipment</option>
+								
+									<option value="4">Calibration</option>
+								
+									<option value="5">Ionizing Radiation Dosimetry</option>
+								
+									<option value="6">Electromagnetic Compatibility & Telecommunications</option>
+								
+									<option value="7">Fasteners and Metals</option>
+								
+									<optgroup label="Homeland Security Applications">
+									
+									<option value="9">Biometric Testing</option>
+								
+									<option value="10">Radiation Detection Instruments</option>
+								
+										</optgroup>
+									
+									<optgroup label="Information Technology Security Testing">
+									
+									<option value="12">ITST: Cryptographic and Security Testing</option>
+								
+									<option value="13">ITST: Common Criteria Testing</option>
+								
+									<option value="14">ITST: Healthcare Information Technology Testing</option>
+								
+										</optgroup>
+									
+									<optgroup label="Product Testing">
+									
+									<option value="16">Acoustical Testing Services</option>
+								
+									<option value="17">Carpet and Carpet Cushion</option>
+								
+									<option value="18">Construction Materials Testing</option>
+								
+									<option value="19">Efficiency of Electric Motors</option>
+								
+									<option value="20">Energy Efficient Lighting Products</option>
+								
+									<option value="21">Thermal Insulation Materials</option>
+								
+										</optgroup>
+									
+									<option value="23">Voting System Testing</option>
+								
+					</select>
+				</div>
+			</div>
+
+			<div class="form-group" id="productGroupDropdown" style="display: none;">
+				<label class="col-sm-4 control-label right" for="productGroupIds">Area of Accreditation:</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="productGroups" name="productGroups" value="[]"/>
+					<input type="hidden" id="productGroupIds" name="productGroupIds" class="bigdrop col-md-12"/>
+				</div>
+			</div>
+
+			<div class="form-group">
+				<label class="col-sm-4 control-label right" for="productIds">Scope Keyword(s):</label>
+				<div class="col-sm-8">
+					<input type="hidden" id="products" name="products" value="[]"/>
+					<input type="hidden" id="productIds" name="productIds" class="bigdrop col-md-12"/>
+					
+				</div>
+			</div>
+
+		</div>
+
+		<div class="toolbox bottom navigationItem">
+			<div class="btn-group left mrg_t_10 pad_l_10">
+				<a href="index.cfm?event=directory.discontinued" class="bold text-info"><em>Click here for a list of laboratories with suspended or terminated accreditation.</em></a>
+			</div>
+			<div class="btn-group fright pad_r_10">
+				<button type="button" id="btnReset" class="btnNavigate btn btn-primary">Reset</button>
+				<button type="submit" class="btnNavigate btn btn-warning">Search</button>
+			</div>
+		</div>
+	</div>
+	</form>
+</div>
+
+							<!-- /RENDER VIEW -->
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- /CONTAINER -->
+		<!-- FOOTER -->
+		<section class="container pad_b_10">
+			<div class="row col-xs-12 center">
+				<a href="##" class="ts_logo" target="_blank">powered by <span class="small">Touch<span>S</span>tone</span></a>
+			</div>
+		<!-- /FOOTER -->
+	</section>
+	<!-- /PAGE -->
+	
+	<!-- *** LAYOUT THEME JAVASCRIPTS *** -->
+	<!-- JQUERY -->
+	<script type="text/javascript" src="/niws/js/lib/jquery/jquery-2.1.1.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- JQUERY UI-->
+	<script type="text/javascript" src="/niws/js/lib/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- BOOTSTRAP -->
+	<script type="text/javascript" src="/niws/js/lib/bootstrap-dist/js/bootstrap.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- UNIFORM -->
+	<script type="text/javascript" src="/niws/js/lib/uniform/jquery.uniform.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- COOKIE -->
+	<script type="text/javascript" src="/niws/js/lib/jQuery-Cookie/jquery.cookie.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- DATE RANGE PICKER -->
+	<script type="text/javascript" src="/niws/js/lib/bootstrap-daterangepicker/moment.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/lib/bootstrap-daterangepicker/daterangepicker.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- DATE PICKER -->
+	<script type="text/javascript" src="/niws/js/lib/datepicker/picker.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/lib/datepicker/picker.date.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/lib/datepicker/picker.time.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- SLIMSCROLL -->
+	<script type="text/javascript" src="/niws/js/lib/jQuery-slimScroll-1.3.0/jquery.slimscroll.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/lib/jQuery-slimScroll-1.3.0/slimScrollHorizontal.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- BOOTBOX -->
+	<script type="text/javascript" src="/niws/js/lib/bootbox/bootbox.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!--  HUBSPOT MESSAGING   -->
+	<script type="text/javascript" src="/niws/js/lib/hubspot-messenger/js/messenger.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<!-- *** /LAYOUT THEME JAVASCRIPTS *** -->
+	<!-- *** TOUCHSTONE JAVASCRIPTS *** -->
+	<script type="text/javascript" src="/niws/js/_touchstone/plugins/jquery.ajaxPackage.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/_touchstone/plugins/jquery.coldboxUtil.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/_touchstone/plugins/jquery.touchstone.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	<script type="text/javascript" src="/niws/js/_touchstone/touchstone.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	
+	
+	<!-- jstouchstone -->
+	<script type="text/javascript">
+	// init coldbox javascript utility
+	$cbox = $.cboxUtility.init('index.cfm?event=__controller_name.__event_name&__query_string', 'event', 'directory.search', '');
+	</script>
+
+		<!-- directory/search -->
+		<script type="text/javascript" src="/niws/js/lib/select2/select2.min.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+		<script type="text/javascript" src="/niws/js/_touchstone/handlers/directory/search.js?rcache=C98E6575-A644-30F4-B108E852EB17488D"></script>
+	
+	<!-- directory/directoryHelper -->
+
+	
+	<!-- *** /TOUCHSTONE JAVASCRIPTS *** -->
+	
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3346a733b06bfb8',t:'MTc4ODA5OTQxMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html> 
