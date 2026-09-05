@@ -4,7 +4,7 @@ Static first version of a U.S. directory: NVLAP-accredited asbestos analysis lab
 
 **Homepage line:** Find an NVLAP-accredited lab that can analyze asbestos — then a licensed contractor if the report says to remove it.
 
-**Byline:** Stephen Shortell / Asbestos Lab Index
+**Byline:** Shortell Designs / Asbestos Lab Index (public byline updated from personal name)
 
 **Published:** 30 August 2026 (US/Pacific)
 

@@ -265,7 +265,7 @@ def footer(extra: str = "") -> str:
     return f"""  </main>
   <footer class="site">
     <div class="inner">
-      <p>Stephen Shortell. Last updated {UPDATED_PT}.</p>
+      <p>Shortell Designs. Last updated {UPDATED_PT}.</p>
       <p><a href="about.html">Methodology</a> · <a href="states.html">States</a></p>
 {extra}      <div class="disclaimer">
         <p>This site is not a government agency and does not accredit laboratories or license contractors. Rows are transcribed from the official sources cited on each page. Licenses, accreditation, and phone numbers change. Confirm with the laboratory or licensing program before you hire anyone or ship a sample.</p>
@@ -744,11 +744,11 @@ def main() -> dict:
     (ROOT / "about.html").write_text(
         header(
             "about.html",
-            "About Asbestos Lab Index | Stephen Shortell",
-            "Asbestos Lab Index is a static directory by Stephen Shortell. Official lists only. No invented labs or phones.",
+            "About Asbestos Lab Index | Shortell Designs",
+            "Asbestos Lab Index is a static directory by Shortell Designs. Official lists only. No invented labs or phones.",
         )
         + f"""    <h1 class="page">About Asbestos Lab Index</h1>
-    <p class="lede">A static U.S. directory by Stephen Shortell. Find an NVLAP-accredited lab that can analyze asbestos, then a licensed contractor if the report says to remove it. We do not invent records.</p>
+    <p class="lede">A static U.S. directory by Shortell Designs. Find an NVLAP-accredited lab that can analyze asbestos, then a licensed contractor if the report says to remove it. We do not invent records.</p>
     <p class="meta">First version {UPDATED_PT}.</p>
 
     <h2>What we are</h2>
@@ -768,7 +768,7 @@ def main() -> dict:
     <p>Amazon Associates paid links may appear on <a href="kits.html">kits.html</a>. Tag <code>radontestinde-20</code>. Payee: Stephen Shortell. Laboratory and contractor listings are not advertisements.</p>
 
     <h2>Byline</h2>
-    <p>Stephen Shortell.</p>
+    <p>Shortell Designs.</p>
 """
         + footer(),
         encoding="utf-8",
