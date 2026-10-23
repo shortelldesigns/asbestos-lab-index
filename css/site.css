@@ -66,7 +66,8 @@ header.site {
   color: #d7c9a4;
 }
 
-.brand h1 {
+.brand h1,
+.brand .site-title {
   margin: 0.15rem 0 0;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.45rem;
@@ -74,7 +75,8 @@ header.site {
   letter-spacing: 0.01em;
 }
 
-.brand h1 a {
+.brand h1 a,
+.brand .site-title a {
   color: inherit;
   text-decoration: none;
 }
@@ -128,7 +130,8 @@ main {
 
 main.wide { max-width: var(--wide); }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4,
+.brand .site-title {
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.25;
   color: var(--navy);
