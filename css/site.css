@@ -73,6 +73,8 @@ header.site {
   font-size: 1.45rem;
   font-weight: 700;
   letter-spacing: 0.01em;
+  line-height: 1.25;
+  color: #f6f3ea; /* cream on --navy: keeps the header title readable */
 }
 
 .brand h1 a,
@@ -130,8 +132,7 @@ main {
 
 main.wide { max-width: var(--wide); }
 
-h1, h2, h3, h4,
-.brand .site-title {
+h1, h2, h3, h4 {
   font-family: Georgia, "Times New Roman", serif;
   line-height: 1.25;
   color: var(--navy);
