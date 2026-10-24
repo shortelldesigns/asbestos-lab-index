@@ -638,3 +638,14 @@ nav.primary a {
   .yes { background: var(--ok-bg); padding: 0.05rem 0.35rem; }
   .sub { background: var(--warn-bg); padding: 0.05rem 0.35rem; }
 }
+
+/* === Fold + tap pass (Designer, 2026-10-24) ===
+   .fold-cta: one specific action right under the page H1 so it lands in the 390x844 fold.
+   Card title links reach 44px. Long URLs wrap instead of pushing the page 1px wide. */
+main, footer { overflow-wrap: break-word; }
+.fold-cta { margin: 0.35rem 0 1rem; }
+.card h3 a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
