@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /asbestos-lab-index/data/sources/
 Sitemap: https://shortelldesigns.github.io/asbestos-lab-index/sitemap.xml
