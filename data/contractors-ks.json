@@ -4,10 +4,10 @@
     "issuer": "Kansas Department of Health and Environment, Bureau of Air",
     "title": "Licensed Asbestos Contractors",
     "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-    "source_document_date": "2026-08",
-    "retrieved": "2026-08-30",
-    "rows": 77,
-    "notes": "License numbers are unknown; the PDF does not print them. Order is the PDF order, not a ranking. One row prints North Little Rock / AK as on the PDF."
+    "source_document_date": "2026-09",
+    "retrieved": "2026-11-10",
+    "rows": 78,
+    "notes": "License numbers are unknown; the PDF does not print them. Order is the PDF order, not a ranking. One row prints North Little Rock / AK as on the PDF. The PDF prints 78 rows and no total; two rows share the same Waco, TX address and phone under slightly different names (FH Arc Abatement LLC and F H Arc Abatement LLC) and are kept as printed."
   },
   "contractors": [
     {
@@ -18,8 +18,8 @@
       "phone": "913 492-1346",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Associated Insulation, Inc.",
@@ -29,8 +29,8 @@
       "phone": "785 776 0145",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Great Plains Asbestos Control, Inc.",
@@ -40,8 +40,8 @@
       "phone": "308 234-3350",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Performance Abatement Services, Inc.",
@@ -51,8 +51,8 @@
       "phone": "913 914-5224",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Remediation Contractors, Inc.",
@@ -62,8 +62,8 @@
       "phone": "316 269-1549",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Jacobson Asbestos Company",
@@ -73,8 +73,8 @@
       "phone": "785 817 2047",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "McGill Asbestos Abatement Co., LLC",
@@ -84,8 +84,8 @@
       "phone": "402 699-5487",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Midwest Steel Company, Inc.",
@@ -95,8 +95,8 @@
       "phone": "713 991-7843",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Asbestos Handlers, Inc",
@@ -106,8 +106,8 @@
       "phone": "918 836 5585",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Integrated Solutions, Inc. (dba iSi Environmental)",
@@ -117,8 +117,8 @@
       "phone": "316 264 7050",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "AT Abatement Services, Inc.",
@@ -128,8 +128,8 @@
       "phone": "816 242 0444",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Environmental Action, Inc.",
@@ -139,8 +139,8 @@
       "phone": "918 298 4080",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Horsley Specialties, Inc.",
@@ -150,8 +150,8 @@
       "phone": "605 342-5634",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Abatement Systems, Inc",
@@ -161,8 +161,8 @@
       "phone": "918 251 3852",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Gerken Environmental Enterprises, Inc",
@@ -172,8 +172,8 @@
       "phone": "417 863 7254",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Bockmann, Inc.",
@@ -183,8 +183,8 @@
       "phone": "402 423 6631",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Construction and Abatement Services, Inc.",
@@ -194,8 +194,8 @@
       "phone": "816 524 3233",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Midwest Service Group",
@@ -205,8 +205,8 @@
       "phone": "636 926 7800",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "EnviroServe",
@@ -216,8 +216,8 @@
       "phone": "417 358 3599",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "P&M Insulation",
@@ -227,8 +227,8 @@
       "phone": "785 554 8944",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "24/7 Enviro Solutions, Inc.",
@@ -238,8 +238,8 @@
       "phone": "816 252 1659",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Lakeshore Environmental Contractors, LLC",
@@ -249,8 +249,8 @@
       "phone": "205 943 5711",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "BrandSafway LLC",
@@ -260,8 +260,8 @@
       "phone": "801 656 5213",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "New Horizons Enterprises, LLC",
@@ -271,8 +271,8 @@
       "phone": "816 569 5256",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Environmental Assurance CO., Inc.",
@@ -282,8 +282,8 @@
       "phone": "317 636 8500",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Insco Environmental, Inc.",
@@ -293,8 +293,8 @@
       "phone": "660 924 8348",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "AMX Environmental, LTD.",
@@ -304,8 +304,8 @@
       "phone": "214 353 8087",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Brandenburg Industrial Service Company",
@@ -315,8 +315,8 @@
       "phone": "312-528 1168",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Advanced Environmental",
@@ -326,8 +326,8 @@
       "phone": "319 287 4447",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Environmental Restoration, LLC",
@@ -337,8 +337,8 @@
       "phone": "636 227 7477",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Forefront Environmental Services LLC",
@@ -348,8 +348,8 @@
       "phone": "816 918 3757",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Pacific Technologies, INC.",
@@ -359,8 +359,8 @@
       "phone": "208 344 8668",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Titan Environmental Services",
@@ -370,8 +370,8 @@
       "phone": "816 960 4675",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Excel Modular Scaffold & Leasing Corp",
@@ -381,8 +381,8 @@
       "phone": "508 591 1253",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Apache Industrial Services Inc",
@@ -392,8 +392,8 @@
       "phone": "281 609 8800",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "NorthStar Demolition & Remediation Inc",
@@ -403,8 +403,8 @@
       "phone": "409 886 3959",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "FH Arc Abatement LLC",
@@ -414,8 +414,8 @@
       "phone": "254 755 6700",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Snyder Environmental & Construction, LLC",
@@ -425,8 +425,8 @@
       "phone": "501 801 2776",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "SH Environmental Services, INC.",
@@ -436,8 +436,8 @@
       "phone": "281 989 2690",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "BluSky Restoration Contractors LLC",
@@ -447,8 +447,8 @@
       "phone": "303 789 4258",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Partner Industrial, LP",
@@ -458,8 +458,8 @@
       "phone": "832 360 1978",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Earth Services and Abatement, LLC",
@@ -469,8 +469,8 @@
       "phone": "303 991 1280",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Prism Response, LLC",
@@ -480,8 +480,8 @@
       "phone": "724 325 3390",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "BrandSafway Solutions, LLC",
@@ -491,8 +491,8 @@
       "phone": "903 757 5757",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "ACM Removal, LLC",
@@ -502,8 +502,8 @@
       "phone": "316 684 1800",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Select Demo Services, LLC",
@@ -513,8 +513,8 @@
       "phone": "603 386 0391",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Allstar Asbestos Abatement & Demolition",
@@ -524,8 +524,8 @@
       "phone": "913 203 7381",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Tiger Abatement LLC.",
@@ -535,8 +535,8 @@
       "phone": "316 883 5266",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "MSP Environmental LLC",
@@ -546,8 +546,8 @@
       "phone": "816 547 5284",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "F H Arc Abatement LLC",
@@ -557,8 +557,8 @@
       "phone": "254 755 6700",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Smart Environmental Services, LLC",
@@ -568,8 +568,8 @@
       "phone": "913 355 5303",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Mock Construction LLC",
@@ -579,8 +579,8 @@
       "phone": "816 284 7666",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "American Asbestos Abatement LLC",
@@ -590,8 +590,8 @@
       "phone": "636 627 2777",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Freshco LLC",
@@ -601,8 +601,8 @@
       "phone": "620 417 6521",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Rainbow Restoration of NE Kansas",
@@ -612,8 +612,8 @@
       "phone": "785 371 2400",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Austin Maintenance & Construction, Inc,",
@@ -623,8 +623,8 @@
       "phone": "713 641 3400",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Richards Remediation Inc.",
@@ -634,8 +634,8 @@
       "phone": "573 303 3563",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Johnson Contracting, LLC",
@@ -645,8 +645,8 @@
       "phone": "913 952 7559",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "A + Abatement",
@@ -656,8 +656,8 @@
       "phone": "816 738 9775",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "AXIOS Industrial Maintenance Contractors",
@@ -667,8 +667,8 @@
       "phone": "713 277 7814",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Global Environmental, Inc.",
@@ -678,8 +678,8 @@
       "phone": "314 733 5565",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Chavez Inc.",
@@ -689,8 +689,8 @@
       "phone": "785 232 3779",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Skyway USA, Inc.",
@@ -700,8 +700,8 @@
       "phone": "713 450 9307",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Eastern Missouri Builders dba ABC Enviro",
@@ -711,8 +711,8 @@
       "phone": "314 668 1509",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "ECS Midwest LLC",
@@ -722,8 +722,8 @@
       "phone": "913 231 8455",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "EcoSafe Environmental Services, Inc.",
@@ -733,8 +733,8 @@
       "phone": "816 598 4111",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Concorp INC",
@@ -744,8 +744,8 @@
       "phone": "816 891 8000",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Environmental Services",
@@ -755,8 +755,8 @@
       "phone": "402 371 7593",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Cavins Group",
@@ -766,8 +766,8 @@
       "phone": "405 651 7257",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Top Line Construction LLC",
@@ -777,8 +777,8 @@
       "phone": "620 682 6411",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Veit & Company LLC",
@@ -788,8 +788,8 @@
       "phone": "763 428 2242",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Inspection Experts Inc",
@@ -799,8 +799,8 @@
       "phone": "410 715 3839",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Kansas Restoration & Abatement",
@@ -810,8 +810,8 @@
       "phone": "785 259 9730",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "AAS Environmental, LLC",
@@ -821,8 +821,8 @@
       "phone": "405 465 0059",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Vortex Site Services",
@@ -832,8 +832,8 @@
       "phone": "4174908197",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "Osprey of Aurora, LLC",
@@ -843,8 +843,8 @@
       "phone": "303 576 6868",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     },
     {
       "name": "CLEAN HARBORS ENVIRONMENTAL SERVICES",
@@ -854,8 +854,19 @@
       "phone": "704 488 3095",
       "license": "unknown",
       "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
-      "source_document_date": "2026-08",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "name": "The Winter Construction Company LLC",
+      "address": "5616 Peachtree Road Ste 100",
+      "city": "Atlanta",
+      "state": "GA",
+      "phone": "404 588 3300",
+      "license": "unknown",
+      "source_url": "https://www.kdhe.ks.gov/DocumentCenter/View/470/Kansas-Licensed-Asbestos-Abatement-Contractors-PDF",
+      "source_document_date": "2026-09",
+      "retrieved": "2026-11-10"
     }
   ]
 }
