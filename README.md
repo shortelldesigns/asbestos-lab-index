@@ -51,7 +51,7 @@ nvlap.html                      honest NVLAP search explainer (0 rows this versi
 when-to-test.html               EPA leave / repair / remove + NIST lab role
 about.html                      methodology + commission disclosure
 contractors/kansas.html         77 KDHE-licensed contractors
-contractors/pennsylvania.html   284 unique L&I certification numbers
+contractors/pennsylvania.html   283 unique L&I certification numbers
 css/site.css
 data/nvlap-labs.json
 data/contractors-ks.json
