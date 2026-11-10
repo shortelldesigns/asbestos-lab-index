@@ -4,11 +4,11 @@
     "issuer": "Pennsylvania Department of Labor and Industry, Bureau of Occupational and Industrial Safety",
     "title": "Certified Asbestos Abatement Companies",
     "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-    "source_document_date": "2026-08-27",
-    "retrieved": "2026-08-30",
-    "rows_on_source": 299,
-    "duplicate_cert_numbers_collapsed": 15,
-    "unique_cert_numbers": 284,
+    "source_document_date": "2026-11-09",
+    "retrieved": "2026-11-10",
+    "rows_on_source": 291,
+    "duplicate_cert_numbers_collapsed": 8,
+    "unique_cert_numbers": 283,
     "notes": "Official HTML listed some certification numbers twice with two expiration dates. Unique list keeps the later expiration. Order follows first appearance on the official table. Not a ranking."
   },
   "contractors": [
@@ -22,8 +22,21 @@
       "zip": "15071",
       "expiration": "05/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0133A",
+      "name": "A&C ENVIRONMENTAL SERVICES INC",
+      "phone": "2152914979",
+      "address": "2045 N LAWRENCE ST",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zip": "19122",
+      "expiration": "09/23/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001297",
@@ -35,8 +48,8 @@
       "zip": "44089",
       "expiration": "12/16/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1009A",
@@ -48,21 +61,21 @@
       "zip": "07606",
       "expiration": "11/13/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
-      "cert_number": "C001291",
-      "name": "A1 ENVIRONMENTAL AND SAFETY TRAINING LLC DBA MAYOKA SERVICES",
-      "phone": "(410) 647-1354",
-      "address": "3437 9TH ST",
-      "city": "BALTIMORE",
-      "state": "MD",
-      "zip": "21225",
-      "expiration": "10/09/2026",
+      "cert_number": "C0548A",
+      "name": "A.C.M. CONSULTING CORP.",
+      "phone": "9086871008",
+      "address": "2150 STANLEY TERRACE",
+      "city": "UNION",
+      "state": "NJ",
+      "zip": "07083",
+      "expiration": "09/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0949A",
@@ -74,8 +87,8 @@
       "zip": "18504",
       "expiration": "05/15/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1104A",
@@ -87,8 +100,8 @@
       "zip": "44505",
       "expiration": "05/15/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001309",
@@ -100,8 +113,8 @@
       "zip": "19132",
       "expiration": "04/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0918A",
@@ -113,8 +126,8 @@
       "zip": "08701",
       "expiration": "01/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0880A",
@@ -126,8 +139,8 @@
       "zip": "14610",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0034A",
@@ -139,8 +152,8 @@
       "zip": "08048",
       "expiration": "10/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1008A",
@@ -152,8 +165,8 @@
       "zip": "15120",
       "expiration": "02/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0505A",
@@ -165,8 +178,8 @@
       "zip": "13032",
       "expiration": "06/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0865A",
@@ -178,8 +191,8 @@
       "zip": "21225",
       "expiration": "07/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0238A",
@@ -189,10 +202,10 @@
       "city": "CHESTER",
       "state": "PA",
       "zip": "19013",
-      "expiration": "10/09/2026",
+      "expiration": "10/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001317",
@@ -204,8 +217,8 @@
       "zip": "18103",
       "expiration": "07/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0035A",
@@ -217,8 +230,8 @@
       "zip": "18103",
       "expiration": "03/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0465A",
@@ -230,8 +243,8 @@
       "zip": "20852",
       "expiration": "08/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001313",
@@ -243,8 +256,8 @@
       "zip": "14202",
       "expiration": "06/03/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001275",
@@ -256,8 +269,8 @@
       "zip": "02062",
       "expiration": "07/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1033A",
@@ -269,8 +282,8 @@
       "zip": "19454",
       "expiration": "02/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0704A",
@@ -282,8 +295,8 @@
       "zip": "17602",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001264",
@@ -295,8 +308,8 @@
       "zip": "18428",
       "expiration": "05/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0866A",
@@ -308,8 +321,8 @@
       "zip": "17866",
       "expiration": "04/16/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0497A",
@@ -321,8 +334,8 @@
       "zip": "18411",
       "expiration": "12/19/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0135A",
@@ -334,8 +347,8 @@
       "zip": "19382",
       "expiration": "06/23/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0989A",
@@ -347,8 +360,8 @@
       "zip": "70809",
       "expiration": "07/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0793A",
@@ -360,21 +373,8 @@
       "zip": "17111",
       "expiration": "04/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C0723A",
-      "name": "ALLY SERVICES CO",
-      "phone": "2154987538",
-      "address": "1441 ANDERSON AVE UNIT B",
-      "city": "ORELAND",
-      "state": "PA",
-      "zip": "19075",
-      "expiration": "09/19/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0382A",
@@ -386,8 +386,8 @@
       "zip": "16505",
       "expiration": "06/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0214A",
@@ -397,23 +397,10 @@
       "city": "MCKEES ROCKS",
       "state": "PA",
       "zip": "15136",
-      "expiration": "10/28/2026",
+      "expiration": "10/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001293",
-      "name": "AMERICAN DEMOLITION CORP",
-      "phone": "(609) 926-7373",
-      "address": "2 ENGLISH LANE",
-      "city": "EGG HARBOR TWP",
-      "state": "NJ",
-      "zip": "08234",
-      "expiration": "10/21/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0016A",
@@ -425,8 +412,8 @@
       "zip": "15143",
       "expiration": "08/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1042A",
@@ -438,8 +425,8 @@
       "zip": "19120",
       "expiration": "12/19/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0590A",
@@ -451,8 +438,21 @@
       "zip": "08048",
       "expiration": "03/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001328",
+      "name": "ASBESTOS LEAD MOLD ABATEMENT LLC",
+      "phone": "(845) 978-8963",
+      "address": "1971 WESTERN AVE",
+      "city": "ALBANY",
+      "state": "NY",
+      "zip": "12203",
+      "expiration": "09/29/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0383A",
@@ -462,10 +462,10 @@
       "city": "ELKRIDGE",
       "state": "MD",
       "zip": "21075",
-      "expiration": "10/03/2026",
+      "expiration": "10/03/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1229A",
@@ -475,10 +475,10 @@
       "city": "HANOVER",
       "state": "PA",
       "zip": "17331",
-      "expiration": "04/17/2028",
+      "expiration": "04/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0279A",
@@ -490,8 +490,8 @@
       "zip": "19342",
       "expiration": "06/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0322A",
@@ -503,8 +503,8 @@
       "zip": "08062",
       "expiration": "04/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0976A",
@@ -516,8 +516,8 @@
       "zip": "19801",
       "expiration": "07/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001254",
@@ -529,21 +529,8 @@
       "zip": "08109",
       "expiration": "02/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C1117A",
-      "name": "ATMOS SOLUTIONS, INC.",
-      "phone": "2028916959",
-      "address": "6856 EASTERN AVE, NW",
-      "city": "WASHINGTON",
-      "state": "DC",
-      "zip": "20012",
-      "expiration": "10/20/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001320",
@@ -555,8 +542,8 @@
       "zip": "08088",
       "expiration": "08/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0210A",
@@ -568,8 +555,8 @@
       "zip": "15147",
       "expiration": "07/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1123A",
@@ -579,10 +566,10 @@
       "city": "EAST MCKEESPORT",
       "state": "PA",
       "zip": "15035",
-      "expiration": "11/24/2026",
+      "expiration": "11/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1027A",
@@ -594,8 +581,8 @@
       "zip": "77380",
       "expiration": "11/20/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0702A",
@@ -607,8 +594,8 @@
       "zip": "17866",
       "expiration": "09/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001307",
@@ -620,8 +607,8 @@
       "zip": "07936",
       "expiration": "04/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1111A",
@@ -631,10 +618,10 @@
       "city": "PHILADELPHIA",
       "state": "PA",
       "zip": "19136",
-      "expiration": "10/25/2026",
+      "expiration": "10/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0002A",
@@ -646,8 +633,8 @@
       "zip": "17201",
       "expiration": "07/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1187A",
@@ -659,8 +646,8 @@
       "zip": "08081",
       "expiration": "03/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001322",
@@ -672,8 +659,8 @@
       "zip": "21921",
       "expiration": "08/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0204A",
@@ -685,21 +672,21 @@
       "zip": "15237",
       "expiration": "04/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1208A",
       "name": "BLUE SKY ENVIRONMENTAL",
-      "phone": "4127025065",
+      "phone": "(412) 704-5417",
       "address": "145 MONICA DR",
       "city": "PITTSBURGH",
       "state": "PA",
       "zip": "15239",
-      "expiration": "11/06/2026",
+      "expiration": "11/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1173A",
@@ -711,8 +698,8 @@
       "zip": "80112",
       "expiration": "08/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1139A",
@@ -724,8 +711,8 @@
       "zip": "20002",
       "expiration": "06/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0074A",
@@ -737,8 +724,8 @@
       "zip": "18015",
       "expiration": "04/23/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0602A",
@@ -748,10 +735,10 @@
       "city": "LESTER",
       "state": "PA",
       "zip": "19029",
-      "expiration": "10/29/2026",
+      "expiration": "10/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0160A",
@@ -763,21 +750,8 @@
       "zip": "19007",
       "expiration": "07/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C0731A",
-      "name": "BROCK SERVICES LLC",
-      "phone": "2818078200",
-      "address": "10343 SAM HOUSTON PARK DRIVE",
-      "city": "HOUSTON",
-      "state": "TX",
-      "zip": "77064",
-      "expiration": "10/08/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1083A",
@@ -789,8 +763,8 @@
       "zip": "15238",
       "expiration": "03/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1207A",
@@ -802,8 +776,8 @@
       "zip": "15066",
       "expiration": "05/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001300",
@@ -815,8 +789,8 @@
       "zip": "19130",
       "expiration": "01/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0063A",
@@ -828,8 +802,8 @@
       "zip": "15237",
       "expiration": "01/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0519A",
@@ -841,8 +815,8 @@
       "zip": "17815",
       "expiration": "06/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0555A",
@@ -854,8 +828,8 @@
       "zip": "21009",
       "expiration": "01/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1000A",
@@ -867,8 +841,8 @@
       "zip": "17331",
       "expiration": "11/25/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1142A",
@@ -880,8 +854,8 @@
       "zip": "25701",
       "expiration": "02/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0048A",
@@ -893,8 +867,8 @@
       "zip": "15202",
       "expiration": "02/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0224A",
@@ -906,8 +880,8 @@
       "zip": "15317",
       "expiration": "04/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1106A",
@@ -919,8 +893,8 @@
       "zip": "56634",
       "expiration": "05/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0527A",
@@ -932,8 +906,8 @@
       "zip": "26501",
       "expiration": "04/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0528A",
@@ -945,8 +919,8 @@
       "zip": "16214",
       "expiration": "02/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0652A",
@@ -958,21 +932,21 @@
       "zip": "12110",
       "expiration": "07/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001283",
       "name": "CLEAN HARBORS ENVIRONMENTAL SERVICES, INC",
-      "phone": "(864) 584-4119",
+      "phone": "(704) 488-3095",
       "address": "42 LONGWATER DRIVE",
       "city": "NORWELL",
       "state": "MA",
       "zip": "02061",
-      "expiration": "09/05/2026",
+      "expiration": "09/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001318",
@@ -984,8 +958,8 @@
       "zip": "19020",
       "expiration": "07/23/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0984A",
@@ -997,8 +971,8 @@
       "zip": "44452",
       "expiration": "06/15/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1219A",
@@ -1010,8 +984,8 @@
       "zip": "17522",
       "expiration": "02/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0092A",
@@ -1023,8 +997,8 @@
       "zip": "17055",
       "expiration": "07/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1021A",
@@ -1036,8 +1010,21 @@
       "zip": "15102",
       "expiration": "04/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0084A",
+      "name": "CONTROLLED ENVIRONMENTAL SYSTEMS INC",
+      "phone": "2155427000",
+      "address": "1121 N  BETHLEHEM PIKE",
+      "city": "SPRING HOUSE",
+      "state": "PA",
+      "zip": "19477",
+      "expiration": "09/15/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0201A",
@@ -1049,8 +1036,21 @@
       "zip": "19720",
       "expiration": "02/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0820A",
+      "name": "CSI CONSTRUCTION CO., INC.",
+      "phone": "4125804468",
+      "address": "8051 ABER ROAD",
+      "city": "VERONA",
+      "state": "PA",
+      "zip": "15147",
+      "expiration": "09/10/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0261A",
@@ -1062,8 +1062,8 @@
       "zip": "18512",
       "expiration": "06/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0130A",
@@ -1075,8 +1075,8 @@
       "zip": "17044",
       "expiration": "12/16/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0307A",
@@ -1088,8 +1088,8 @@
       "zip": "17601",
       "expiration": "04/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0432A",
@@ -1101,8 +1101,8 @@
       "zip": "19087",
       "expiration": "06/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0022A",
@@ -1114,8 +1114,8 @@
       "zip": "18966",
       "expiration": "06/15/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0093A",
@@ -1127,8 +1127,8 @@
       "zip": "19124",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0693A",
@@ -1140,8 +1140,8 @@
       "zip": "18504",
       "expiration": "08/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0653A",
@@ -1153,8 +1153,21 @@
       "zip": "15104",
       "expiration": "12/19/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0547A",
+      "name": "DON HUEY CUSTOM BUILDING & REMODELING",
+      "phone": "7243497453",
+      "address": "23 CAMPBELL LANE",
+      "city": "INDIANA",
+      "state": "PA",
+      "zip": "15701",
+      "expiration": "09/17/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1091A",
@@ -1166,8 +1179,34 @@
       "zip": "48707",
       "expiration": "01/30/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001327",
+      "name": "DYNAMICS DEVELOPMENT SERVICES INC.",
+      "phone": "(718) 906-1055",
+      "address": "557 GRAND CONCOURSE",
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10451",
+      "expiration": "09/29/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0556A",
+      "name": "EADDY ENVIRONMENTAL LLC",
+      "phone": "6107341030",
+      "address": "PO BOX 74",
+      "city": "NEWTOWN SQUARE",
+      "state": "PA",
+      "zip": "19073",
+      "expiration": "09/30/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001263",
@@ -1179,8 +1218,8 @@
       "zip": "43952",
       "expiration": "08/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0722A",
@@ -1192,8 +1231,8 @@
       "zip": "19341",
       "expiration": "07/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1085A",
@@ -1203,23 +1242,10 @@
       "city": "BENSALEM",
       "state": "PA",
       "zip": "19020",
-      "expiration": "09/17/2026",
+      "expiration": "09/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C1204A",
-      "name": "EIS HOLDING, LLC",
-      "phone": "6824288256",
-      "address": "4028 DALEY AVE",
-      "city": "FT. WORTH",
-      "state": "TX",
-      "zip": "76262",
-      "expiration": "10/07/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0417A",
@@ -1231,8 +1257,8 @@
       "zip": "19038",
       "expiration": "01/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0642A",
@@ -1244,8 +1270,21 @@
       "zip": "14218",
       "expiration": "12/20/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001298",
+      "name": "ENVIROMAX SOLUTIONS LTD",
+      "phone": "(412) 279-9040",
+      "address": "301 PRESTLEY ST",
+      "city": "CARNEGIE",
+      "state": "PA",
+      "zip": "15137",
+      "expiration": "12/30/2026",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0262A",
@@ -1257,8 +1296,8 @@
       "zip": "46222",
       "expiration": "07/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0536A",
@@ -1270,8 +1309,8 @@
       "zip": "19406",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0540A",
@@ -1283,8 +1322,8 @@
       "zip": "41018",
       "expiration": "07/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1060A",
@@ -1296,8 +1335,8 @@
       "zip": "19038",
       "expiration": "04/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0327A",
@@ -1309,8 +1348,8 @@
       "zip": "44420",
       "expiration": "05/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0853A",
@@ -1322,8 +1361,8 @@
       "zip": "63026",
       "expiration": "06/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1122A",
@@ -1335,8 +1374,8 @@
       "zip": "15106",
       "expiration": "09/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0601A",
@@ -1348,21 +1387,21 @@
       "zip": "03042",
       "expiration": "12/22/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001244",
       "name": "ERIE ENVIRONMENTAL OF CLEVELAND",
       "phone": "4192025120",
-      "address": "36521 ROYALTON RD,",
+      "address": "12344 S REED RD",
       "city": "GRAFTON",
       "state": "OH",
       "zip": "44044",
-      "expiration": "03/17/2027",
+      "expiration": "03/17/2028",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1194A",
@@ -1374,8 +1413,8 @@
       "zip": "19046",
       "expiration": "07/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001272",
@@ -1387,8 +1426,8 @@
       "zip": "30084",
       "expiration": "07/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001315",
@@ -1400,8 +1439,8 @@
       "zip": "19040",
       "expiration": "07/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1186A",
@@ -1413,8 +1452,8 @@
       "zip": "76701",
       "expiration": "07/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0017A",
@@ -1426,8 +1465,8 @@
       "zip": "17403",
       "expiration": "05/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0826A",
@@ -1439,8 +1478,8 @@
       "zip": "16066",
       "expiration": "04/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1030A",
@@ -1450,10 +1489,10 @@
       "city": "WEST MIFFLIN",
       "state": "PA",
       "zip": "15122",
-      "expiration": "10/07/2026",
+      "expiration": "10/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0367A",
@@ -1465,8 +1504,8 @@
       "zip": "18237",
       "expiration": "02/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1215A",
@@ -1478,21 +1517,21 @@
       "zip": "08081",
       "expiration": "07/30/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
-      "cert_number": "C0546A",
+      "cert_number": "C001325",
       "name": "FRYMAR CONSTRUCTION",
-      "phone": "2677844694",
+      "phone": "(267) 784-4694",
       "address": "103 PRESERVE LN",
       "city": "NORTH WALES",
       "state": "PA",
       "zip": "19454",
-      "expiration": "10/15/2026",
+      "expiration": "09/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001323",
@@ -1504,8 +1543,8 @@
       "zip": "15221",
       "expiration": "08/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1097A",
@@ -1517,21 +1556,8 @@
       "zip": "15136",
       "expiration": "04/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001284",
-      "name": "GENERAL CONTRACTING GROUP LLC",
-      "phone": "(201) 790-0716",
-      "address": "54 OLD CHIMNEY RD",
-      "city": "UPPER SADDLE RIVER",
-      "state": "NJ",
-      "zip": "07458",
-      "expiration": "09/10/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001238",
@@ -1543,8 +1569,8 @@
       "zip": "15136",
       "expiration": "07/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1003A",
@@ -1556,8 +1582,8 @@
       "zip": "15136",
       "expiration": "07/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1163A",
@@ -1569,8 +1595,8 @@
       "zip": "07869",
       "expiration": "02/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0670A",
@@ -1582,8 +1608,8 @@
       "zip": "15851",
       "expiration": "01/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0953A",
@@ -1595,21 +1621,21 @@
       "zip": "19112",
       "expiration": "12/08/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001290",
       "name": "GLOBAL CONTRACTING SERVICE",
-      "phone": "(609) 547-5198",
+      "phone": "6095475198",
       "address": "375 N MAIN ST",
       "city": "WILLIAMSTOWN",
       "state": "NJ",
       "zip": "08094",
-      "expiration": "10/08/2026",
+      "expiration": "11/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001267",
@@ -1621,8 +1647,8 @@
       "zip": "07028",
       "expiration": "06/03/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0982A",
@@ -1634,8 +1660,8 @@
       "zip": "19007",
       "expiration": "08/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0786A",
@@ -1645,10 +1671,10 @@
       "city": "MAYS LANDING",
       "state": "NJ",
       "zip": "08330",
-      "expiration": "10/15/2026",
+      "expiration": "11/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0162A",
@@ -1660,8 +1686,8 @@
       "zip": "15235",
       "expiration": "12/24/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1217A",
@@ -1673,21 +1699,8 @@
       "zip": "15238",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001292",
-      "name": "GREEN ENVIRONEMENTAL STRATEGY INC",
-      "phone": "5717498116",
-      "address": "6600 OKEEFE KNOLL COURT",
-      "city": "FAIRFAX STATION",
-      "state": "VA",
-      "zip": "22039",
-      "expiration": "10/16/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001296",
@@ -1699,8 +1712,8 @@
       "zip": "07606",
       "expiration": "12/03/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0288A",
@@ -1712,8 +1725,8 @@
       "zip": "15101",
       "expiration": "01/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0885A",
@@ -1725,8 +1738,8 @@
       "zip": "44272",
       "expiration": "10/23/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0294A",
@@ -1738,8 +1751,8 @@
       "zip": "02061",
       "expiration": "03/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1065A",
@@ -1751,8 +1764,8 @@
       "zip": "15210",
       "expiration": "12/19/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001243",
@@ -1764,8 +1777,8 @@
       "zip": "08201",
       "expiration": "09/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0946A",
@@ -1777,8 +1790,8 @@
       "zip": "15147",
       "expiration": "01/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1166A",
@@ -1788,10 +1801,10 @@
       "city": "NEWTOWN SQUARE",
       "state": "PA",
       "zip": "19073",
-      "expiration": "01/20/2027",
+      "expiration": "01/20/2028",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0833A",
@@ -1803,8 +1816,8 @@
       "zip": "17112",
       "expiration": "03/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0832A",
@@ -1816,8 +1829,8 @@
       "zip": "17112",
       "expiration": "03/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0617A",
@@ -1829,8 +1842,8 @@
       "zip": "44512",
       "expiration": "02/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0817A",
@@ -1842,8 +1855,8 @@
       "zip": "15068",
       "expiration": "12/19/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1133A",
@@ -1855,8 +1868,8 @@
       "zip": "44141",
       "expiration": "05/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0967A",
@@ -1866,10 +1879,10 @@
       "city": "COLUMBIA",
       "state": "MD",
       "zip": "21045",
-      "expiration": "03/31/2027",
+      "expiration": "03/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0485A",
@@ -1881,8 +1894,8 @@
       "zip": "23860",
       "expiration": "03/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1151A",
@@ -1894,8 +1907,8 @@
       "zip": "11702",
       "expiration": "06/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1114A",
@@ -1907,8 +1920,8 @@
       "zip": "16037",
       "expiration": "06/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0843A",
@@ -1920,8 +1933,8 @@
       "zip": "43605",
       "expiration": "04/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0332A",
@@ -1933,8 +1946,8 @@
       "zip": "19014",
       "expiration": "03/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001304",
@@ -1946,8 +1959,8 @@
       "zip": "15031",
       "expiration": "02/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1169A",
@@ -1959,8 +1972,8 @@
       "zip": "18103",
       "expiration": "01/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0968A",
@@ -1972,21 +1985,8 @@
       "zip": "19063",
       "expiration": "04/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C1070A",
-      "name": "J&M DEMOLITION AND ENVIRONMENTAL, LLC",
-      "phone": "4436395129",
-      "address": "1005 S MAIN ST",
-      "city": "HAMPSTEAD",
-      "state": "MD",
-      "zip": "21074",
-      "expiration": "10/15/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001276",
@@ -1998,21 +1998,21 @@
       "zip": "15126",
       "expiration": "07/31/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
-      "cert_number": "C0838A",
-      "name": "J.L.B. CONSTRUCTION, INC.",
-      "phone": "7175333373",
-      "address": "580 FOX RUN ROAD",
-      "city": "GRANTVILLE",
+      "cert_number": "C0886A",
+      "name": "J.D. ECKMAN INC",
+      "phone": "6105933249",
+      "address": "4781 LOWER VALLEY ROAD",
+      "city": "ATGLEN",
       "state": "PA",
-      "zip": "17028",
-      "expiration": "10/28/2026",
+      "zip": "19310",
+      "expiration": "08/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0019A",
@@ -2024,8 +2024,8 @@
       "zip": "07470",
       "expiration": "05/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1234A",
@@ -2037,21 +2037,8 @@
       "zip": "84101",
       "expiration": "06/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C1196A",
-      "name": "JCR MANAGEMENT SPECIALIST LLC",
-      "phone": "7324031471",
-      "address": "306 VICTOR PL",
-      "city": "NEPTUNE",
-      "state": "NJ",
-      "zip": "07753",
-      "expiration": "09/04/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1076A",
@@ -2063,8 +2050,8 @@
       "zip": "19134",
       "expiration": "04/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0666A",
@@ -2076,8 +2063,8 @@
       "zip": "45714",
       "expiration": "06/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0626A",
@@ -2089,8 +2076,8 @@
       "zip": "10309",
       "expiration": "12/18/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1110A",
@@ -2102,8 +2089,8 @@
       "zip": "15108",
       "expiration": "04/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0123A",
@@ -2115,8 +2102,8 @@
       "zip": "19454",
       "expiration": "02/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0087A",
@@ -2128,8 +2115,8 @@
       "zip": "19540",
       "expiration": "01/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1015A",
@@ -2141,8 +2128,8 @@
       "zip": "19444",
       "expiration": "07/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001260",
@@ -2154,21 +2141,8 @@
       "zip": "17314",
       "expiration": "04/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C0987A",
-      "name": "KEYSTONE INDUSTRIAL SERVICES INC",
-      "phone": "3023335445",
-      "address": "300 ORCHARD DRIVE",
-      "city": "CRANBERRY TOWNSHIP",
-      "state": "PA",
-      "zip": "16066",
-      "expiration": "10/07/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0596A",
@@ -2180,8 +2154,8 @@
       "zip": "16729",
       "expiration": "12/24/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0578A",
@@ -2193,8 +2167,8 @@
       "zip": "15537",
       "expiration": "01/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1193A",
@@ -2206,8 +2180,8 @@
       "zip": "18360",
       "expiration": "03/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001319",
@@ -2219,8 +2193,8 @@
       "zip": "12148",
       "expiration": "08/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1077A",
@@ -2232,21 +2206,8 @@
       "zip": "13165",
       "expiration": "05/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001288",
-      "name": "LAKESHORE ENVIRONMENTAL CONTRACTORS, LLC",
-      "phone": "2052886468",
-      "address": "5513 EASTCLIFF INDUSTRIAL LOOP",
-      "city": "BIRMINGHAM",
-      "state": "AL",
-      "zip": "35210",
-      "expiration": "10/03/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001308",
@@ -2258,8 +2219,8 @@
       "zip": "33610",
       "expiration": "04/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1038A",
@@ -2271,8 +2232,8 @@
       "zip": "16101",
       "expiration": "05/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0256A",
@@ -2284,8 +2245,8 @@
       "zip": "43701",
       "expiration": "01/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001269",
@@ -2297,8 +2258,8 @@
       "zip": "15601",
       "expiration": "06/15/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0302A",
@@ -2310,8 +2271,8 @@
       "zip": "17702",
       "expiration": "07/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0893A",
@@ -2323,8 +2284,8 @@
       "zip": "17403",
       "expiration": "12/10/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001255",
@@ -2336,8 +2297,8 @@
       "zip": "06062",
       "expiration": "02/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1088A",
@@ -2349,8 +2310,8 @@
       "zip": "15234",
       "expiration": "12/08/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0633A",
@@ -2362,8 +2323,8 @@
       "zip": "19474",
       "expiration": "04/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1017A",
@@ -2375,8 +2336,34 @@
       "zip": "18229",
       "expiration": "02/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001280",
+      "name": "MCCREARY ROOFING CO., INC",
+      "phone": "8144522640",
+      "address": "1404 EAST AVENUE",
+      "city": "ERIE",
+      "state": "PA",
+      "zip": "16503",
+      "expiration": "10/27/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0521A",
+      "name": "MEDICO SYSTEMS INC",
+      "phone": "4409921122",
+      "address": "1949 FORMAN ROAD",
+      "city": "JEFFERSON",
+      "state": "OH",
+      "zip": "44047",
+      "expiration": "09/28/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001259",
@@ -2388,8 +2375,8 @@
       "zip": "15026",
       "expiration": "03/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001245",
@@ -2399,10 +2386,10 @@
       "city": "WEST MIFFLIN",
       "state": "PA",
       "zip": "15122",
-      "expiration": "11/01/2026",
+      "expiration": "11/01/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1116A",
@@ -2414,8 +2401,8 @@
       "zip": "20036",
       "expiration": "02/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1054A",
@@ -2427,21 +2414,8 @@
       "zip": "02368",
       "expiration": "07/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001285",
-      "name": "MP ENVIRONMENTAL SERVICES OF NY INC.",
-      "phone": "5185664575",
-      "address": "1080 MILITARY TPKE",
-      "city": "PLATTSBURGH",
-      "state": "NY",
-      "zip": "12901",
-      "expiration": "09/12/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001316",
@@ -2453,8 +2427,8 @@
       "zip": "18229",
       "expiration": "07/06/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0645A",
@@ -2466,8 +2440,8 @@
       "zip": "40299",
       "expiration": "02/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1140A",
@@ -2479,8 +2453,8 @@
       "zip": "19152",
       "expiration": "04/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1005A",
@@ -2492,8 +2466,8 @@
       "zip": "19063",
       "expiration": "04/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0144A",
@@ -2505,8 +2479,8 @@
       "zip": "19525",
       "expiration": "02/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0090A",
@@ -2518,8 +2492,21 @@
       "zip": "15201",
       "expiration": "04/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0091A",
+      "name": "NEW YORK INSULATION INC",
+      "phone": "7183260125",
+      "address": "58-48 59TH ST 2ND FLOOR",
+      "city": "MASPETH",
+      "state": "NY",
+      "zip": "11378",
+      "expiration": "10/02/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1156A",
@@ -2529,10 +2516,23 @@
       "city": "LIMESTONE",
       "state": "NY",
       "zip": "14753",
-      "expiration": "11/24/2026",
+      "expiration": "11/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001331",
+      "name": "NORTH BRANDYWINE CONTRACTORS",
+      "phone": "6104963379",
+      "address": "1554 PAOLI PIKE",
+      "city": "WEST CHESTER",
+      "state": "PA",
+      "zip": "19380",
+      "expiration": "11/05/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001242",
@@ -2544,21 +2544,21 @@
       "zip": "07662",
       "expiration": "02/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0025A",
       "name": "NORTHSTAR CONTRACTING GROUP INC",
-      "phone": "(973) 884-8682",
+      "phone": "9738848682",
       "address": "3318 HWY 365,",
       "city": "NEDERLAND",
       "state": "TX",
       "zip": "77627",
-      "expiration": "10/30/2026",
+      "expiration": "10/30/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1098A",
@@ -2570,8 +2570,8 @@
       "zip": "77627",
       "expiration": "01/16/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0342A",
@@ -2583,8 +2583,8 @@
       "zip": "15237",
       "expiration": "01/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1227A",
@@ -2596,8 +2596,8 @@
       "zip": "21015",
       "expiration": "05/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1120A",
@@ -2609,8 +2609,8 @@
       "zip": "46222",
       "expiration": "07/31/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1226A",
@@ -2622,8 +2622,8 @@
       "zip": "16214",
       "expiration": "04/30/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0703A",
@@ -2635,8 +2635,8 @@
       "zip": "11101",
       "expiration": "06/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001287",
@@ -2648,8 +2648,8 @@
       "zip": "08559",
       "expiration": "09/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1124A",
@@ -2661,21 +2661,8 @@
       "zip": "15010",
       "expiration": "06/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C0041A",
-      "name": "PENOCO, INC.",
-      "phone": "8143594406",
-      "address": "485 EAST COLLEGE AVENUE",
-      "city": "PLEASANT GAP",
-      "state": "PA",
-      "zip": "16823",
-      "expiration": "09/03/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0054A",
@@ -2687,8 +2674,8 @@
       "zip": "19137",
       "expiration": "06/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0350A",
@@ -2700,21 +2687,8 @@
       "zip": "66219",
       "expiration": "07/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001298",
-      "name": "PETROMAX LTD",
-      "phone": "(412) 279-9040",
-      "address": "301 PRESTLEY ST",
-      "city": "CARNEGIE",
-      "state": "PA",
-      "zip": "15137",
-      "expiration": "12/30/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0351A",
@@ -2724,10 +2698,10 @@
       "city": "PITTSBURGH",
       "state": "PA",
       "zip": "15239",
-      "expiration": "11/07/2026",
+      "expiration": "11/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0066A",
@@ -2739,8 +2713,21 @@
       "zip": "19401",
       "expiration": "07/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001329",
+      "name": "PORT RENTS CORP",
+      "phone": "(412) 760-4189",
+      "address": "1 CONSTITUTION BLVD",
+      "city": "ALIQUIPPA",
+      "state": "PA",
+      "zip": "15001",
+      "expiration": "10/14/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0055A",
@@ -2752,8 +2739,8 @@
       "zip": "20794",
       "expiration": "03/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0474A",
@@ -2765,8 +2752,8 @@
       "zip": "17011",
       "expiration": "04/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0013A",
@@ -2776,27 +2763,14 @@
       "city": "INDEPENDENCE",
       "state": "OH",
       "zip": "44131",
-      "expiration": "10/22/2026",
+      "expiration": "10/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001294",
-      "name": "PREMIER BUILDING RESTORATION LLC",
-      "phone": "(215) 233-4444",
-      "address": "529 BETHLEHEM PIKE",
-      "city": "ERDENHEIM",
-      "state": "PA",
-      "zip": "19038",
-      "expiration": "10/22/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0720A",
-      "name": "PRISM RESPONSE LLC",
+      "name": "PRISM RESPONSE, LLC",
       "phone": "7243253330",
       "address": "300 PENN CENTER BLVD",
       "city": "PITTSBURGH",
@@ -2804,8 +2778,8 @@
       "zip": "15235",
       "expiration": "01/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0753A",
@@ -2815,10 +2789,10 @@
       "city": "CAPITOL HEIGHTS",
       "state": "MD",
       "zip": "20743",
-      "expiration": "12/18/2026",
+      "expiration": "12/18/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1112A",
@@ -2828,10 +2802,10 @@
       "city": "LANCASTER",
       "state": "PA",
       "zip": "17601",
-      "expiration": "05/20/2027",
+      "expiration": "09/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001306",
@@ -2843,8 +2817,8 @@
       "zip": "11215",
       "expiration": "03/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0484A",
@@ -2856,8 +2830,8 @@
       "zip": "23860",
       "expiration": "03/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0996A",
@@ -2869,8 +2843,8 @@
       "zip": "19013",
       "expiration": "06/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0046A",
@@ -2882,8 +2856,8 @@
       "zip": "16650",
       "expiration": "02/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001321",
@@ -2895,8 +2869,8 @@
       "zip": "23452",
       "expiration": "08/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0758A",
@@ -2908,8 +2882,8 @@
       "zip": "26554",
       "expiration": "08/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0899A",
@@ -2921,8 +2895,8 @@
       "zip": "19518",
       "expiration": "05/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0800A",
@@ -2934,8 +2908,8 @@
       "zip": "08619",
       "expiration": "07/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0094A",
@@ -2947,8 +2921,8 @@
       "zip": "21784",
       "expiration": "02/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0859A",
@@ -2960,21 +2934,8 @@
       "zip": "08031",
       "expiration": "06/04/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C0796A",
-      "name": "RIDDLE ENVIRONMENTAL SERVICES LLC",
-      "phone": "5709033246",
-      "address": "1610 N. WEBSTER AVE",
-      "city": "DUNMORE",
-      "state": "PA",
-      "zip": "18512",
-      "expiration": "10/22/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1108A",
@@ -2986,8 +2947,8 @@
       "zip": "18951",
       "expiration": "06/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0228A",
@@ -2999,8 +2960,8 @@
       "zip": "19342",
       "expiration": "04/16/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001303",
@@ -3012,8 +2973,8 @@
       "zip": "20705",
       "expiration": "01/26/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1176A",
@@ -3025,8 +2986,8 @@
       "zip": "18960",
       "expiration": "05/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0716A",
@@ -3038,8 +2999,8 @@
       "zip": "01854",
       "expiration": "03/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001312",
@@ -3051,8 +3012,8 @@
       "zip": "16506",
       "expiration": "05/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0156A",
@@ -3064,8 +3025,8 @@
       "zip": "19067",
       "expiration": "05/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1090A",
@@ -3077,8 +3038,8 @@
       "zip": "15327",
       "expiration": "12/30/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0956A",
@@ -3090,21 +3051,8 @@
       "zip": "18103",
       "expiration": "09/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001295",
-      "name": "SALEM CONTRACTING LLC",
-      "phone": "(804) 819-0812",
-      "address": "509 BRIGHTON RD",
-      "city": "COLLEGEVILLE",
-      "state": "PA",
-      "zip": "19460",
-      "expiration": "10/30/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001305",
@@ -3116,8 +3064,8 @@
       "zip": "20710",
       "expiration": "02/24/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0020A",
@@ -3129,8 +3077,8 @@
       "zip": "18229",
       "expiration": "03/18/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001301",
@@ -3142,8 +3090,8 @@
       "zip": "15090",
       "expiration": "01/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1101A",
@@ -3155,8 +3103,8 @@
       "zip": "03079",
       "expiration": "04/20/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1170A",
@@ -3168,8 +3116,8 @@
       "zip": "14502",
       "expiration": "05/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0494A",
@@ -3181,21 +3129,21 @@
       "zip": "08052",
       "expiration": "02/21/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1167A",
       "name": "SHE DEMOS LLC",
-      "phone": "(484) 903-0587",
-      "address": "333 E LANCASTER AVE #306",
+      "phone": "4849030587",
+      "address": "333 E LANCASTER AVE",
       "city": "WYNNEWOOD",
       "state": "PA",
       "zip": "19096",
-      "expiration": "11/03/2026",
+      "expiration": "11/03/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1184A",
@@ -3207,21 +3155,34 @@
       "zip": "16116",
       "expiration": "06/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0191A",
       "name": "SIMON ROOFING AND SHEET METAL CORP",
-      "phone": "(330) 629-7663",
+      "phone": "3306297663",
       "address": "70 KARAGO AVENUE",
       "city": "YOUNGSTOWN",
       "state": "OH",
       "zip": "44512",
-      "expiration": "09/16/2026",
+      "expiration": "09/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001326",
+      "name": "SJ PIERCE",
+      "phone": "(412) 963-9009",
+      "address": "6515 HAMILTON AVE",
+      "city": "PITTSBURGH",
+      "state": "PA",
+      "zip": "15206",
+      "expiration": "09/15/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001324",
@@ -3233,8 +3194,8 @@
       "zip": "77044",
       "expiration": "08/19/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0284A",
@@ -3246,8 +3207,8 @@
       "zip": "20781",
       "expiration": "12/01/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0042A",
@@ -3259,21 +3220,21 @@
       "zip": "15108",
       "expiration": "03/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0728A",
-      "name": "SPECTRUM ENVIRONMENTAL LLC",
+      "name": "SPECTRUM ENVIRONMENTAL, LLC",
       "phone": "7243253330",
-      "address": "4000 TRIANGLE LANE SUITE 160",
-      "city": "EXPORT",
+      "address": "300 PENN CENTER BLVD",
+      "city": "PITTSBURGH",
       "state": "PA",
-      "zip": "15632",
+      "zip": "15235",
       "expiration": "01/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1145A",
@@ -3285,8 +3246,8 @@
       "zip": "44408",
       "expiration": "06/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1213A",
@@ -3298,8 +3259,8 @@
       "zip": "21144",
       "expiration": "03/11/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0190A",
@@ -3311,8 +3272,8 @@
       "zip": "15147",
       "expiration": "01/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001302",
@@ -3324,8 +3285,21 @@
       "zip": "13088",
       "expiration": "01/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0938A",
+      "name": "SUNESIS ENVIRONMENTAL LLC",
+      "phone": "5138810900",
+      "address": "325 COMMERCIAL DRIVE",
+      "city": "FAIRFIELD",
+      "state": "OH",
+      "zip": "45014",
+      "expiration": "09/17/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1089A",
@@ -3335,10 +3309,10 @@
       "city": "DALTON",
       "state": "PA",
       "zip": "18414",
-      "expiration": "11/14/2026",
+      "expiration": "11/14/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0018A",
@@ -3350,8 +3324,8 @@
       "zip": "13905",
       "expiration": "11/12/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0998A",
@@ -3363,8 +3337,8 @@
       "zip": "16033",
       "expiration": "01/02/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0692A",
@@ -3376,8 +3350,8 @@
       "zip": "08087",
       "expiration": "07/31/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1141A",
@@ -3389,21 +3363,34 @@
       "zip": "18407",
       "expiration": "05/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C0706A",
+      "name": "T. LOMAX & ASSOCIATES, INC.",
+      "phone": "2158291366",
+      "address": "253 W HORTTER ST",
+      "city": "PHILADELPHIA",
+      "state": "PA",
+      "zip": "19119",
+      "expiration": "09/17/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001289",
       "name": "TACTICAL REMEDIATION, LLC",
-      "phone": "(724) 858-4100",
+      "phone": "7248584100",
       "address": "1165 RIDGE ROAD",
       "city": "VANDERGRIFT",
       "state": "PA",
       "zip": "15690",
-      "expiration": "10/07/2026",
+      "expiration": "10/07/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0740A",
@@ -3415,8 +3402,8 @@
       "zip": "18974",
       "expiration": "08/05/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0915A",
@@ -3428,8 +3415,8 @@
       "zip": "19335",
       "expiration": "04/13/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0397A",
@@ -3441,8 +3428,8 @@
       "zip": "08034",
       "expiration": "04/10/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0920A",
@@ -3454,8 +3441,8 @@
       "zip": "07104",
       "expiration": "12/22/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0809A",
@@ -3467,8 +3454,8 @@
       "zip": "30341",
       "expiration": "08/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1195A",
@@ -3480,8 +3467,8 @@
       "zip": "21227",
       "expiration": "06/27/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0335A",
@@ -3493,8 +3480,8 @@
       "zip": "15061",
       "expiration": "01/08/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001240",
@@ -3506,8 +3493,8 @@
       "zip": "14150",
       "expiration": "08/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1118A",
@@ -3519,8 +3506,8 @@
       "zip": "15068",
       "expiration": "09/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0822A",
@@ -3532,8 +3519,8 @@
       "zip": "15104",
       "expiration": "01/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0931A",
@@ -3545,8 +3532,8 @@
       "zip": "70809",
       "expiration": "04/16/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001246",
@@ -3558,8 +3545,8 @@
       "zip": "15001",
       "expiration": "12/18/2026",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0951A",
@@ -3571,8 +3558,8 @@
       "zip": "07444",
       "expiration": "08/25/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1035A",
@@ -3584,8 +3571,8 @@
       "zip": "19010",
       "expiration": "10/03/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0033A",
@@ -3597,8 +3584,8 @@
       "zip": "19153",
       "expiration": "02/18/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001299",
@@ -3610,8 +3597,8 @@
       "zip": "07456",
       "expiration": "01/12/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0985A",
@@ -3623,8 +3610,21 @@
       "zip": "15214",
       "expiration": "09/17/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
+    },
+    {
+      "cert_number": "C001330",
+      "name": "VOLLERS",
+      "phone": "(908) 581-0802",
+      "address": "3311 US 22",
+      "city": "NORTH BRANCH",
+      "state": "NJ",
+      "zip": "08876",
+      "expiration": "10/28/2027",
+      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C001310",
@@ -3636,8 +3636,8 @@
       "zip": "44511",
       "expiration": "04/29/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1160A",
@@ -3649,8 +3649,8 @@
       "zip": "16056",
       "expiration": "02/09/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1029A",
@@ -3660,23 +3660,10 @@
       "city": "LARKSVILLE",
       "state": "PA",
       "zip": "18651",
-      "expiration": "09/30/2026",
+      "expiration": "09/30/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
-    },
-    {
-      "cert_number": "C001286",
-      "name": "XPERT RESTORATION LLC",
-      "phone": "(216) 903-8722",
-      "address": "1311 E. STATE ST.",
-      "city": "SHARON",
-      "state": "PA",
-      "zip": "19079",
-      "expiration": "09/15/2026",
-      "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C1096A",
@@ -3686,10 +3673,10 @@
       "city": "LANSDALE",
       "state": "PA",
       "zip": "19446",
-      "expiration": "10/02/2026",
+      "expiration": "10/28/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     },
     {
       "cert_number": "C0629A",
@@ -3701,8 +3688,8 @@
       "zip": "45066",
       "expiration": "08/22/2027",
       "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/labor-management-relations/bois/documents/asbcontr.htm",
-      "source_document_date": "2026-08-27",
-      "retrieved": "2026-08-30"
+      "source_document_date": "2026-11-09",
+      "retrieved": "2026-11-10"
     }
   ]
 }
